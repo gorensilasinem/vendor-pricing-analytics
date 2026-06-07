@@ -45,3 +45,8 @@ Built in Looker Studio with 4 views:
 3. python data/raw/generate_data.py
 4. python data/load_to_duckdb.py
 5. cd vendor_pricing_dbt && dbt run
+
+## Dashboard Preview
+[View Live Dashboard](https://datastudio.google.com/reporting/56c70f5b-e94e-4c7a-8d5b-4fc9f67f09cb)
+
+[Download Dashboard PDF](Vendor_Pricing_Intelligence_Dashboard.pdf)
