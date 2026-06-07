@@ -1,0 +1,1001 @@
+vendor_id,vendor_name,country,city,cuisine_type,vendor_tier,joined_date,avg_prep_time_min,rating,is_active
+V00001,Restaurant_1,Bosnia,Sarajevo,Dessert,Premium,2023-08-02,20,2.5,1
+V00002,Restaurant_2,Saudi Arabia,Istanbul,Healthy,Budget,2020-08-16,26,3.8,0
+V00003,Restaurant_3,Taiwan,Dubai,Dessert,Budget,2020-02-21,13,3.7,1
+V00004,Restaurant_4,Bosnia,Berlin,Mexican,Standard,2021-07-17,34,4.1,1
+V00005,Restaurant_5,UAE,Taipei,Healthy,Budget,2021-05-16,39,3.9,1
+V00006,Restaurant_6,Taiwan,Taipei,Asian,Standard,2021-04-02,18,4.2,1
+V00007,Restaurant_7,Taiwan,Riyadh,Turkish,Standard,2020-10-12,30,4.1,1
+V00008,Restaurant_8,Bosnia,Istanbul,Asian,Premium,2020-07-28,29,2.8,0
+V00009,Restaurant_9,Turkey,Berlin,Dessert,Budget,2023-10-17,28,4.5,1
+V00010,Restaurant_10,UAE,Istanbul,Dessert,Premium,2023-01-21,28,2.8,1
+V00011,Restaurant_11,Bosnia,Berlin,Turkish,Budget,2020-06-27,21,4.2,1
+V00012,Restaurant_12,UAE,Riyadh,Dessert,Budget,2023-04-24,26,3.5,1
+V00013,Restaurant_13,UAE,Riyadh,Asian,Budget,2022-05-14,37,3.8,1
+V00014,Restaurant_14,Taiwan,Taipei,Healthy,Premium,2020-03-06,44,4.8,0
+V00015,Restaurant_15,Saudi Arabia,Istanbul,Healthy,Standard,2020-03-02,27,4.7,1
+V00016,Restaurant_16,UAE,Dhaka,Italian,Standard,2020-07-10,23,4.5,1
+V00017,Restaurant_17,Bangladesh,Taipei,Mexican,Standard,2021-03-23,44,3.8,1
+V00018,Restaurant_18,Taiwan,Istanbul,Dessert,Premium,2021-04-21,16,4.3,1
+V00019,Restaurant_19,Turkey,Taipei,Asian,Budget,2022-10-31,22,3.8,1
+V00020,Restaurant_20,Saudi Arabia,Dhaka,Dessert,Standard,2023-05-17,27,4.7,1
+V00021,Restaurant_21,Bangladesh,Dubai,Dessert,Standard,2020-02-24,22,3.5,1
+V00022,Restaurant_22,Bangladesh,Dubai,Fast Food,Standard,2023-02-23,40,4.9,1
+V00023,Restaurant_23,Turkey,Dubai,Italian,Standard,2021-02-11,11,4.8,1
+V00024,Restaurant_24,Saudi Arabia,Dubai,Asian,Standard,2023-08-23,25,4.4,1
+V00025,Restaurant_25,Taiwan,Sarajevo,Asian,Standard,2023-12-07,18,3.2,1
+V00026,Restaurant_26,Germany,Berlin,Dessert,Budget,2023-01-21,18,2.8,0
+V00027,Restaurant_27,Saudi Arabia,Sarajevo,Italian,Standard,2022-05-09,20,4.6,1
+V00028,Restaurant_28,Turkey,Sarajevo,Healthy,Budget,2021-03-27,31,2.9,1
+V00029,Restaurant_29,Bangladesh,Sarajevo,Asian,Budget,2022-07-08,42,4.6,1
+V00030,Restaurant_30,Taiwan,Dubai,Healthy,Standard,2023-04-21,32,3.7,1
+V00031,Restaurant_31,Saudi Arabia,Dhaka,Italian,Budget,2021-07-23,43,3.5,1
+V00032,Restaurant_32,Germany,Riyadh,Healthy,Premium,2020-01-14,18,4.8,1
+V00033,Restaurant_33,Germany,Riyadh,Turkish,Budget,2020-11-22,33,4.0,1
+V00034,Restaurant_34,UAE,Berlin,Fast Food,Standard,2023-11-30,17,3.9,1
+V00035,Restaurant_35,UAE,Dubai,Indian,Budget,2022-05-15,16,3.9,1
+V00036,Restaurant_36,Bosnia,Dubai,Asian,Budget,2021-11-27,27,3.4,1
+V00037,Restaurant_37,Turkey,Dubai,Mexican,Budget,2021-07-23,12,4.5,0
+V00038,Restaurant_38,Saudi Arabia,Taipei,Fast Food,Budget,2020-11-14,37,3.1,1
+V00039,Restaurant_39,Saudi Arabia,Istanbul,Indian,Standard,2021-03-16,15,4.8,1
+V00040,Restaurant_40,Bosnia,Taipei,Healthy,Premium,2021-11-20,30,4.7,1
+V00041,Restaurant_41,Bangladesh,Istanbul,Asian,Standard,2020-07-28,37,3.3,1
+V00042,Restaurant_42,Bangladesh,Dubai,Healthy,Premium,2020-07-08,10,4.3,1
+V00043,Restaurant_43,Bosnia,Dubai,Turkish,Standard,2022-02-17,30,3.9,1
+V00044,Restaurant_44,Bangladesh,Taipei,Italian,Standard,2020-07-17,44,3.3,0
+V00045,Restaurant_45,UAE,Taipei,Asian,Budget,2022-01-05,22,5.0,0
+V00046,Restaurant_46,Saudi Arabia,Istanbul,Indian,Standard,2021-12-05,19,2.6,1
+V00047,Restaurant_47,Bosnia,Riyadh,Indian,Budget,2023-05-21,19,3.1,1
+V00048,Restaurant_48,Saudi Arabia,Istanbul,Turkish,Premium,2021-06-25,22,3.8,0
+V00049,Restaurant_49,Germany,Taipei,Turkish,Budget,2020-03-29,33,3.8,1
+V00050,Restaurant_50,UAE,Dhaka,Dessert,Budget,2022-07-29,11,4.0,0
+V00051,Restaurant_51,Taiwan,Taipei,Asian,Standard,2023-01-03,31,4.4,1
+V00052,Restaurant_52,UAE,Dhaka,Healthy,Standard,2020-09-12,26,4.1,1
+V00053,Restaurant_53,Bosnia,Berlin,Mexican,Budget,2022-02-14,23,4.0,1
+V00054,Restaurant_54,Taiwan,Taipei,Indian,Premium,2020-06-10,19,2.6,1
+V00055,Restaurant_55,Germany,Berlin,Indian,Standard,2023-02-04,44,3.4,1
+V00056,Restaurant_56,Bosnia,Riyadh,Turkish,Standard,2021-08-23,34,3.1,1
+V00057,Restaurant_57,Turkey,Istanbul,Fast Food,Premium,2023-07-11,12,3.2,1
+V00058,Restaurant_58,Saudi Arabia,Dhaka,Turkish,Standard,2023-06-20,26,3.9,1
+V00059,Restaurant_59,Germany,Istanbul,Mexican,Premium,2022-01-10,21,3.0,1
+V00060,Restaurant_60,Saudi Arabia,Berlin,Healthy,Premium,2023-03-28,33,3.2,1
+V00061,Restaurant_61,Bangladesh,Dhaka,Healthy,Premium,2021-01-28,38,3.1,1
+V00062,Restaurant_62,Turkey,Istanbul,Fast Food,Budget,2023-12-13,34,4.9,1
+V00063,Restaurant_63,Turkey,Taipei,Indian,Standard,2020-05-22,35,4.9,1
+V00064,Restaurant_64,Germany,Dubai,Turkish,Budget,2020-04-03,10,4.0,0
+V00065,Restaurant_65,Turkey,Berlin,Dessert,Standard,2023-09-16,29,4.8,0
+V00066,Restaurant_66,Taiwan,Istanbul,Healthy,Standard,2021-04-11,37,4.5,1
+V00067,Restaurant_67,Turkey,Berlin,Mexican,Standard,2021-08-15,25,4.0,1
+V00068,Restaurant_68,Saudi Arabia,Sarajevo,Asian,Standard,2020-06-12,26,2.5,1
+V00069,Restaurant_69,Saudi Arabia,Berlin,Italian,Premium,2021-04-21,37,4.4,0
+V00070,Restaurant_70,Bosnia,Dhaka,Italian,Standard,2020-07-25,21,4.3,1
+V00071,Restaurant_71,Saudi Arabia,Sarajevo,Italian,Standard,2022-02-17,36,4.0,1
+V00072,Restaurant_72,Bosnia,Dhaka,Dessert,Standard,2021-07-23,39,4.4,1
+V00073,Restaurant_73,Saudi Arabia,Dubai,Indian,Standard,2022-07-17,43,3.8,1
+V00074,Restaurant_74,Taiwan,Sarajevo,Turkish,Premium,2023-07-25,15,4.3,1
+V00075,Restaurant_75,Bosnia,Taipei,Fast Food,Premium,2022-01-17,16,4.8,1
+V00076,Restaurant_76,UAE,Berlin,Dessert,Budget,2020-11-29,41,3.4,0
+V00077,Restaurant_77,Bangladesh,Istanbul,Dessert,Standard,2022-01-28,41,4.3,0
+V00078,Restaurant_78,Germany,Riyadh,Healthy,Premium,2021-12-28,34,3.7,1
+V00079,Restaurant_79,Saudi Arabia,Berlin,Asian,Budget,2021-03-05,42,4.2,1
+V00080,Restaurant_80,Turkey,Berlin,Dessert,Premium,2023-10-04,16,4.4,1
+V00081,Restaurant_81,Saudi Arabia,Dubai,Mexican,Standard,2021-06-30,21,2.6,1
+V00082,Restaurant_82,Turkey,Taipei,Asian,Budget,2023-12-08,25,4.1,1
+V00083,Restaurant_83,Bangladesh,Riyadh,Mexican,Standard,2023-10-31,25,3.1,1
+V00084,Restaurant_84,Bangladesh,Sarajevo,Indian,Premium,2023-08-20,22,4.2,1
+V00085,Restaurant_85,Bangladesh,Sarajevo,Turkish,Premium,2020-05-26,16,3.7,1
+V00086,Restaurant_86,Turkey,Sarajevo,Italian,Standard,2023-06-01,18,4.4,1
+V00087,Restaurant_87,Saudi Arabia,Dhaka,Dessert,Premium,2023-07-24,41,2.8,1
+V00088,Restaurant_88,Bangladesh,Dhaka,Turkish,Standard,2020-12-16,20,4.1,1
+V00089,Restaurant_89,Taiwan,Istanbul,Indian,Premium,2022-12-29,17,3.2,0
+V00090,Restaurant_90,Bosnia,Riyadh,Fast Food,Standard,2021-05-16,42,4.6,0
+V00091,Restaurant_91,Turkey,Sarajevo,Fast Food,Budget,2020-11-30,32,4.8,0
+V00092,Restaurant_92,Turkey,Dhaka,Indian,Budget,2022-08-04,34,5.0,1
+V00093,Restaurant_93,Saudi Arabia,Istanbul,Mexican,Standard,2022-02-16,17,4.5,1
+V00094,Restaurant_94,Turkey,Taipei,Healthy,Standard,2021-07-06,31,4.4,1
+V00095,Restaurant_95,Turkey,Istanbul,Healthy,Standard,2023-08-03,13,3.0,0
+V00096,Restaurant_96,Bangladesh,Dhaka,Mexican,Standard,2023-11-10,12,3.3,1
+V00097,Restaurant_97,Saudi Arabia,Dubai,Fast Food,Standard,2023-02-14,38,3.7,1
+V00098,Restaurant_98,Bangladesh,Dubai,Fast Food,Premium,2021-03-25,38,4.4,1
+V00099,Restaurant_99,Bosnia,Sarajevo,Dessert,Budget,2023-11-03,43,4.8,1
+V00100,Restaurant_100,Bosnia,Dubai,Fast Food,Standard,2021-10-26,43,3.0,1
+V00101,Restaurant_101,Bangladesh,Sarajevo,Turkish,Premium,2020-04-24,37,4.8,1
+V00102,Restaurant_102,Bosnia,Sarajevo,Fast Food,Standard,2021-04-14,22,4.2,1
+V00103,Restaurant_103,Saudi Arabia,Dhaka,Asian,Standard,2020-03-06,24,4.0,1
+V00104,Restaurant_104,Germany,Dubai,Dessert,Budget,2021-10-08,32,3.0,0
+V00105,Restaurant_105,Bangladesh,Sarajevo,Italian,Budget,2022-04-01,35,2.6,1
+V00106,Restaurant_106,Taiwan,Riyadh,Fast Food,Budget,2021-07-02,13,3.9,1
+V00107,Restaurant_107,Taiwan,Taipei,Mexican,Premium,2020-05-15,35,4.1,1
+V00108,Restaurant_108,Turkey,Istanbul,Italian,Standard,2021-03-08,18,3.0,0
+V00109,Restaurant_109,Bosnia,Istanbul,Turkish,Standard,2023-03-07,14,3.9,1
+V00110,Restaurant_110,Taiwan,Dhaka,Mexican,Premium,2021-10-06,41,4.6,0
+V00111,Restaurant_111,Turkey,Dubai,Italian,Standard,2021-03-11,29,4.6,1
+V00112,Restaurant_112,Germany,Dubai,Mexican,Budget,2023-09-04,20,4.8,0
+V00113,Restaurant_113,Saudi Arabia,Sarajevo,Turkish,Premium,2022-10-19,24,3.4,0
+V00114,Restaurant_114,Saudi Arabia,Berlin,Dessert,Standard,2022-03-21,41,3.3,1
+V00115,Restaurant_115,Saudi Arabia,Sarajevo,Asian,Standard,2023-08-09,37,4.4,1
+V00116,Restaurant_116,Taiwan,Taipei,Turkish,Premium,2022-07-28,31,3.6,1
+V00117,Restaurant_117,Germany,Riyadh,Turkish,Standard,2020-10-19,26,2.7,1
+V00118,Restaurant_118,Taiwan,Istanbul,Mexican,Budget,2021-06-26,35,3.2,1
+V00119,Restaurant_119,Bosnia,Sarajevo,Dessert,Budget,2020-10-12,16,3.5,1
+V00120,Restaurant_120,Taiwan,Berlin,Indian,Budget,2021-05-20,35,3.2,1
+V00121,Restaurant_121,Germany,Berlin,Healthy,Standard,2023-02-23,34,3.3,1
+V00122,Restaurant_122,Germany,Sarajevo,Fast Food,Premium,2023-01-08,19,3.2,1
+V00123,Restaurant_123,Bosnia,Dhaka,Fast Food,Standard,2021-06-22,28,2.6,1
+V00124,Restaurant_124,Germany,Istanbul,Asian,Standard,2023-04-12,20,4.1,1
+V00125,Restaurant_125,Germany,Dhaka,Asian,Budget,2022-05-27,22,4.0,1
+V00126,Restaurant_126,Saudi Arabia,Riyadh,Fast Food,Premium,2023-04-10,17,4.1,1
+V00127,Restaurant_127,Bosnia,Berlin,Healthy,Standard,2022-03-28,13,3.0,1
+V00128,Restaurant_128,UAE,Berlin,Fast Food,Premium,2022-01-11,40,3.2,0
+V00129,Restaurant_129,UAE,Taipei,Indian,Standard,2021-03-25,37,4.0,1
+V00130,Restaurant_130,Germany,Riyadh,Healthy,Budget,2020-10-10,20,4.0,1
+V00131,Restaurant_131,UAE,Berlin,Asian,Standard,2022-11-09,10,3.8,1
+V00132,Restaurant_132,UAE,Riyadh,Italian,Standard,2022-10-07,33,3.4,1
+V00133,Restaurant_133,Germany,Istanbul,Mexican,Standard,2020-07-05,40,4.8,0
+V00134,Restaurant_134,UAE,Dubai,Indian,Standard,2020-04-06,35,3.3,0
+V00135,Restaurant_135,Taiwan,Berlin,Indian,Budget,2020-08-12,14,3.6,1
+V00136,Restaurant_136,Turkey,Taipei,Dessert,Budget,2020-11-09,29,4.2,1
+V00137,Restaurant_137,Bosnia,Istanbul,Asian,Budget,2023-07-09,20,3.9,1
+V00138,Restaurant_138,Turkey,Sarajevo,Asian,Budget,2020-11-23,42,3.4,1
+V00139,Restaurant_139,Germany,Riyadh,Turkish,Standard,2023-10-25,36,3.6,0
+V00140,Restaurant_140,Saudi Arabia,Sarajevo,Indian,Standard,2022-05-14,43,4.5,1
+V00141,Restaurant_141,Bosnia,Dhaka,Turkish,Standard,2023-05-06,24,3.2,1
+V00142,Restaurant_142,Germany,Istanbul,Turkish,Standard,2020-05-10,41,2.9,1
+V00143,Restaurant_143,Saudi Arabia,Sarajevo,Mexican,Budget,2022-02-27,30,3.3,1
+V00144,Restaurant_144,Turkey,Berlin,Turkish,Premium,2022-02-20,14,4.6,1
+V00145,Restaurant_145,Germany,Riyadh,Healthy,Budget,2023-05-05,15,2.7,1
+V00146,Restaurant_146,Bosnia,Dubai,Fast Food,Standard,2022-08-16,31,5.0,1
+V00147,Restaurant_147,Bosnia,Istanbul,Italian,Standard,2022-12-19,27,3.9,1
+V00148,Restaurant_148,Bangladesh,Berlin,Asian,Standard,2021-05-29,23,5.0,1
+V00149,Restaurant_149,Taiwan,Taipei,Healthy,Budget,2023-02-07,19,4.8,0
+V00150,Restaurant_150,UAE,Dhaka,Italian,Standard,2020-01-24,22,3.6,1
+V00151,Restaurant_151,Saudi Arabia,Riyadh,Indian,Standard,2023-10-25,40,3.0,1
+V00152,Restaurant_152,Bangladesh,Istanbul,Indian,Premium,2020-08-22,39,2.9,1
+V00153,Restaurant_153,UAE,Istanbul,Indian,Standard,2023-10-28,12,3.1,1
+V00154,Restaurant_154,UAE,Dubai,Healthy,Premium,2023-01-04,39,4.3,1
+V00155,Restaurant_155,Germany,Dubai,Healthy,Budget,2021-06-30,15,3.2,1
+V00156,Restaurant_156,UAE,Taipei,Asian,Standard,2023-08-05,38,3.4,1
+V00157,Restaurant_157,Taiwan,Dhaka,Fast Food,Standard,2021-11-27,17,3.6,0
+V00158,Restaurant_158,Bosnia,Taipei,Dessert,Premium,2020-08-16,42,4.8,1
+V00159,Restaurant_159,Bangladesh,Berlin,Turkish,Premium,2021-08-24,26,3.0,1
+V00160,Restaurant_160,UAE,Berlin,Indian,Budget,2022-06-09,20,2.5,1
+V00161,Restaurant_161,Germany,Taipei,Mexican,Premium,2020-11-19,22,2.7,1
+V00162,Restaurant_162,Taiwan,Dhaka,Fast Food,Premium,2022-07-18,20,4.8,1
+V00163,Restaurant_163,Turkey,Taipei,Mexican,Premium,2020-01-07,40,4.1,1
+V00164,Restaurant_164,Bosnia,Dhaka,Asian,Budget,2021-06-23,37,3.2,1
+V00165,Restaurant_165,Bosnia,Dhaka,Asian,Budget,2022-10-22,15,2.9,1
+V00166,Restaurant_166,Bangladesh,Sarajevo,Asian,Standard,2020-12-31,25,3.2,1
+V00167,Restaurant_167,Bosnia,Riyadh,Italian,Standard,2022-11-05,13,2.8,1
+V00168,Restaurant_168,UAE,Dhaka,Mexican,Standard,2020-08-05,44,4.9,0
+V00169,Restaurant_169,Germany,Dubai,Fast Food,Budget,2023-07-04,35,4.5,1
+V00170,Restaurant_170,Bosnia,Dhaka,Dessert,Standard,2021-09-03,21,3.7,1
+V00171,Restaurant_171,Bosnia,Dhaka,Fast Food,Premium,2023-08-01,20,4.7,1
+V00172,Restaurant_172,Turkey,Dhaka,Healthy,Premium,2022-11-05,34,3.1,1
+V00173,Restaurant_173,Turkey,Sarajevo,Healthy,Premium,2023-06-01,27,4.3,1
+V00174,Restaurant_174,Saudi Arabia,Sarajevo,Indian,Standard,2021-02-11,28,4.6,1
+V00175,Restaurant_175,Taiwan,Berlin,Dessert,Budget,2020-11-09,32,3.4,1
+V00176,Restaurant_176,UAE,Sarajevo,Healthy,Standard,2022-02-04,27,4.4,1
+V00177,Restaurant_177,Bosnia,Dubai,Asian,Premium,2020-11-26,35,3.2,1
+V00178,Restaurant_178,Bosnia,Dubai,Fast Food,Premium,2023-01-09,15,3.2,1
+V00179,Restaurant_179,Germany,Sarajevo,Mexican,Budget,2022-12-22,13,2.8,0
+V00180,Restaurant_180,Saudi Arabia,Taipei,Asian,Standard,2020-01-02,38,3.6,1
+V00181,Restaurant_181,Taiwan,Riyadh,Italian,Budget,2023-05-11,43,4.3,1
+V00182,Restaurant_182,Saudi Arabia,Sarajevo,Healthy,Standard,2021-10-25,26,4.9,1
+V00183,Restaurant_183,Bangladesh,Dhaka,Asian,Standard,2022-09-27,25,4.0,1
+V00184,Restaurant_184,Taiwan,Istanbul,Asian,Standard,2020-02-09,11,4.7,1
+V00185,Restaurant_185,Bosnia,Riyadh,Italian,Premium,2020-08-17,43,4.6,1
+V00186,Restaurant_186,Bosnia,Riyadh,Turkish,Standard,2022-01-13,17,2.9,1
+V00187,Restaurant_187,Taiwan,Dubai,Fast Food,Budget,2021-09-21,22,3.7,1
+V00188,Restaurant_188,Bosnia,Riyadh,Mexican,Standard,2021-05-05,17,2.8,1
+V00189,Restaurant_189,UAE,Sarajevo,Indian,Standard,2020-04-28,39,4.2,1
+V00190,Restaurant_190,Taiwan,Dhaka,Turkish,Premium,2021-05-08,41,4.9,0
+V00191,Restaurant_191,Saudi Arabia,Dhaka,Healthy,Budget,2023-03-07,39,2.8,1
+V00192,Restaurant_192,Taiwan,Berlin,Asian,Budget,2020-06-10,10,4.3,0
+V00193,Restaurant_193,Bosnia,Dhaka,Dessert,Standard,2020-06-24,26,4.1,1
+V00194,Restaurant_194,UAE,Dhaka,Italian,Budget,2022-09-22,29,4.0,1
+V00195,Restaurant_195,UAE,Dubai,Italian,Standard,2020-05-21,33,3.5,0
+V00196,Restaurant_196,Bangladesh,Dhaka,Dessert,Standard,2022-12-26,31,3.4,1
+V00197,Restaurant_197,Saudi Arabia,Berlin,Fast Food,Budget,2020-09-14,38,2.6,0
+V00198,Restaurant_198,Turkey,Istanbul,Turkish,Budget,2020-09-19,31,3.0,1
+V00199,Restaurant_199,Turkey,Sarajevo,Indian,Standard,2023-09-13,18,2.5,1
+V00200,Restaurant_200,Taiwan,Dubai,Fast Food,Premium,2022-08-31,19,4.0,0
+V00201,Restaurant_201,Bangladesh,Istanbul,Dessert,Standard,2023-01-30,37,2.8,1
+V00202,Restaurant_202,Germany,Dubai,Asian,Budget,2020-12-04,37,4.7,0
+V00203,Restaurant_203,Taiwan,Taipei,Dessert,Standard,2021-06-26,30,3.8,0
+V00204,Restaurant_204,Bangladesh,Riyadh,Fast Food,Standard,2022-12-16,33,4.2,1
+V00205,Restaurant_205,Saudi Arabia,Taipei,Mexican,Standard,2023-05-27,11,3.5,1
+V00206,Restaurant_206,Saudi Arabia,Dhaka,Italian,Standard,2022-05-16,17,3.9,1
+V00207,Restaurant_207,Saudi Arabia,Istanbul,Italian,Standard,2021-03-09,36,4.9,1
+V00208,Restaurant_208,Saudi Arabia,Dhaka,Healthy,Budget,2023-01-09,31,2.7,1
+V00209,Restaurant_209,Saudi Arabia,Riyadh,Healthy,Standard,2023-11-13,36,3.1,1
+V00210,Restaurant_210,Bangladesh,Dubai,Dessert,Premium,2021-02-15,38,4.4,1
+V00211,Restaurant_211,Bangladesh,Riyadh,Indian,Premium,2023-12-31,12,2.7,1
+V00212,Restaurant_212,UAE,Berlin,Asian,Budget,2021-09-30,22,2.7,0
+V00213,Restaurant_213,Turkey,Riyadh,Mexican,Standard,2022-03-28,19,3.4,1
+V00214,Restaurant_214,Bosnia,Berlin,Turkish,Standard,2023-10-07,18,2.7,1
+V00215,Restaurant_215,Saudi Arabia,Riyadh,Fast Food,Budget,2023-08-23,36,4.0,1
+V00216,Restaurant_216,Germany,Sarajevo,Indian,Budget,2022-02-03,43,3.1,1
+V00217,Restaurant_217,Bosnia,Berlin,Asian,Budget,2022-06-16,10,4.7,1
+V00218,Restaurant_218,Bangladesh,Istanbul,Healthy,Budget,2022-11-25,41,4.5,1
+V00219,Restaurant_219,Germany,Dhaka,Dessert,Standard,2022-07-13,34,4.2,0
+V00220,Restaurant_220,Germany,Dhaka,Fast Food,Budget,2020-09-04,38,4.0,1
+V00221,Restaurant_221,Germany,Taipei,Healthy,Standard,2021-05-22,16,4.7,1
+V00222,Restaurant_222,UAE,Dhaka,Dessert,Budget,2021-04-05,12,3.1,1
+V00223,Restaurant_223,Bangladesh,Dubai,Fast Food,Budget,2020-05-11,29,4.7,0
+V00224,Restaurant_224,Germany,Sarajevo,Turkish,Budget,2021-11-23,29,4.5,1
+V00225,Restaurant_225,Saudi Arabia,Riyadh,Asian,Standard,2020-02-13,39,4.4,1
+V00226,Restaurant_226,Taiwan,Taipei,Fast Food,Premium,2023-04-19,44,3.9,1
+V00227,Restaurant_227,Germany,Dubai,Mexican,Standard,2023-02-08,44,3.1,1
+V00228,Restaurant_228,UAE,Dubai,Indian,Budget,2021-04-16,36,3.6,1
+V00229,Restaurant_229,Bosnia,Berlin,Italian,Budget,2023-04-20,35,4.5,1
+V00230,Restaurant_230,Bangladesh,Dhaka,Mexican,Premium,2021-03-27,23,2.6,0
+V00231,Restaurant_231,UAE,Istanbul,Mexican,Premium,2020-01-15,26,4.5,1
+V00232,Restaurant_232,Germany,Istanbul,Indian,Premium,2020-05-25,27,3.1,1
+V00233,Restaurant_233,Bangladesh,Taipei,Italian,Budget,2023-12-20,38,2.9,1
+V00234,Restaurant_234,Taiwan,Sarajevo,Mexican,Budget,2023-07-16,29,2.8,1
+V00235,Restaurant_235,Germany,Istanbul,Fast Food,Standard,2020-04-30,36,2.6,1
+V00236,Restaurant_236,UAE,Riyadh,Fast Food,Standard,2021-04-13,27,3.8,1
+V00237,Restaurant_237,Turkey,Istanbul,Fast Food,Budget,2020-05-18,13,3.0,1
+V00238,Restaurant_238,Saudi Arabia,Taipei,Italian,Budget,2020-03-05,10,5.0,1
+V00239,Restaurant_239,Bosnia,Istanbul,Mexican,Standard,2021-11-07,10,3.9,1
+V00240,Restaurant_240,UAE,Riyadh,Dessert,Standard,2020-05-25,35,2.8,1
+V00241,Restaurant_241,Bangladesh,Berlin,Italian,Standard,2022-11-18,29,4.2,1
+V00242,Restaurant_242,Germany,Sarajevo,Fast Food,Standard,2021-05-02,32,4.7,1
+V00243,Restaurant_243,Saudi Arabia,Taipei,Indian,Standard,2021-07-24,19,4.4,1
+V00244,Restaurant_244,Germany,Berlin,Mexican,Standard,2023-10-02,20,2.7,0
+V00245,Restaurant_245,Bangladesh,Berlin,Mexican,Budget,2022-09-21,14,4.7,1
+V00246,Restaurant_246,Germany,Berlin,Healthy,Standard,2021-03-14,10,4.5,1
+V00247,Restaurant_247,Turkey,Dubai,Healthy,Budget,2023-01-09,26,2.9,0
+V00248,Restaurant_248,Saudi Arabia,Sarajevo,Turkish,Premium,2020-09-27,31,2.6,0
+V00249,Restaurant_249,Saudi Arabia,Dhaka,Dessert,Standard,2023-03-15,43,3.9,1
+V00250,Restaurant_250,Bangladesh,Sarajevo,Dessert,Premium,2023-03-26,38,2.9,1
+V00251,Restaurant_251,Bosnia,Dubai,Asian,Standard,2022-08-26,13,4.6,1
+V00252,Restaurant_252,Turkey,Dhaka,Dessert,Budget,2021-05-12,14,3.4,1
+V00253,Restaurant_253,UAE,Sarajevo,Healthy,Budget,2022-08-26,20,4.8,1
+V00254,Restaurant_254,Germany,Berlin,Italian,Premium,2022-04-13,30,3.9,1
+V00255,Restaurant_255,Taiwan,Taipei,Dessert,Standard,2021-01-24,44,3.0,1
+V00256,Restaurant_256,Germany,Dhaka,Healthy,Budget,2020-07-12,21,2.8,1
+V00257,Restaurant_257,Germany,Riyadh,Turkish,Standard,2020-07-17,35,3.9,1
+V00258,Restaurant_258,UAE,Riyadh,Mexican,Standard,2023-09-11,28,4.4,1
+V00259,Restaurant_259,Germany,Istanbul,Dessert,Budget,2022-06-01,16,4.5,1
+V00260,Restaurant_260,Turkey,Dhaka,Turkish,Standard,2021-12-26,16,3.2,1
+V00261,Restaurant_261,Turkey,Taipei,Mexican,Premium,2022-05-17,35,3.0,1
+V00262,Restaurant_262,Saudi Arabia,Dubai,Indian,Standard,2022-04-21,14,2.5,1
+V00263,Restaurant_263,Bangladesh,Berlin,Indian,Budget,2022-08-14,30,4.2,1
+V00264,Restaurant_264,Bosnia,Istanbul,Mexican,Standard,2020-04-20,23,2.7,0
+V00265,Restaurant_265,Taiwan,Riyadh,Dessert,Premium,2023-10-11,13,3.6,1
+V00266,Restaurant_266,Germany,Dubai,Asian,Budget,2023-08-31,32,4.0,1
+V00267,Restaurant_267,Germany,Dubai,Healthy,Premium,2023-08-16,29,4.8,0
+V00268,Restaurant_268,UAE,Berlin,Italian,Budget,2020-07-20,24,3.3,1
+V00269,Restaurant_269,Bangladesh,Dhaka,Italian,Standard,2020-05-04,38,3.1,1
+V00270,Restaurant_270,Turkey,Riyadh,Fast Food,Budget,2022-04-04,17,4.1,0
+V00271,Restaurant_271,Taiwan,Taipei,Mexican,Standard,2021-11-25,28,4.0,1
+V00272,Restaurant_272,Saudi Arabia,Dubai,Italian,Standard,2020-08-11,37,3.3,1
+V00273,Restaurant_273,Turkey,Berlin,Dessert,Premium,2021-05-24,36,4.8,1
+V00274,Restaurant_274,Bangladesh,Taipei,Asian,Standard,2021-01-27,13,4.6,1
+V00275,Restaurant_275,Bosnia,Dhaka,Mexican,Budget,2021-01-24,24,3.1,1
+V00276,Restaurant_276,Saudi Arabia,Riyadh,Asian,Budget,2023-01-03,44,3.1,1
+V00277,Restaurant_277,Bosnia,Dhaka,Dessert,Standard,2022-07-07,10,3.8,1
+V00278,Restaurant_278,UAE,Dubai,Italian,Standard,2020-10-14,12,4.4,1
+V00279,Restaurant_279,UAE,Taipei,Italian,Budget,2022-05-14,33,2.6,1
+V00280,Restaurant_280,Germany,Taipei,Fast Food,Budget,2021-01-10,36,4.2,1
+V00281,Restaurant_281,Bosnia,Taipei,Italian,Standard,2021-07-24,43,4.1,1
+V00282,Restaurant_282,Bangladesh,Dubai,Mexican,Standard,2022-08-05,38,3.1,1
+V00283,Restaurant_283,Taiwan,Dubai,Dessert,Standard,2021-05-26,33,4.2,1
+V00284,Restaurant_284,Saudi Arabia,Dhaka,Indian,Standard,2020-06-03,33,4.9,1
+V00285,Restaurant_285,Turkey,Istanbul,Dessert,Premium,2022-06-26,13,2.6,1
+V00286,Restaurant_286,Bangladesh,Dhaka,Mexican,Standard,2023-02-01,12,3.3,1
+V00287,Restaurant_287,Bangladesh,Riyadh,Mexican,Standard,2020-07-19,43,3.6,0
+V00288,Restaurant_288,UAE,Berlin,Fast Food,Budget,2020-04-13,32,4.7,1
+V00289,Restaurant_289,Bosnia,Taipei,Fast Food,Premium,2023-08-28,32,4.9,1
+V00290,Restaurant_290,Germany,Istanbul,Italian,Standard,2023-01-12,14,3.6,1
+V00291,Restaurant_291,Germany,Berlin,Turkish,Standard,2020-01-31,40,4.4,0
+V00292,Restaurant_292,Saudi Arabia,Istanbul,Dessert,Standard,2020-07-10,15,3.8,1
+V00293,Restaurant_293,UAE,Sarajevo,Dessert,Premium,2021-04-29,19,3.8,1
+V00294,Restaurant_294,Bangladesh,Dhaka,Turkish,Standard,2020-12-06,16,3.2,1
+V00295,Restaurant_295,Taiwan,Dubai,Fast Food,Standard,2022-04-12,30,3.0,1
+V00296,Restaurant_296,UAE,Taipei,Italian,Standard,2022-09-21,29,3.2,1
+V00297,Restaurant_297,Saudi Arabia,Dhaka,Turkish,Standard,2022-09-12,12,3.9,1
+V00298,Restaurant_298,Saudi Arabia,Berlin,Italian,Standard,2021-03-13,31,2.6,0
+V00299,Restaurant_299,UAE,Sarajevo,Italian,Budget,2022-04-01,13,4.8,1
+V00300,Restaurant_300,Saudi Arabia,Sarajevo,Italian,Standard,2020-04-30,37,2.9,1
+V00301,Restaurant_301,UAE,Sarajevo,Healthy,Budget,2020-12-03,21,3.1,0
+V00302,Restaurant_302,Turkey,Berlin,Mexican,Standard,2022-02-15,14,3.8,1
+V00303,Restaurant_303,UAE,Berlin,Italian,Premium,2020-01-05,22,4.3,1
+V00304,Restaurant_304,Bosnia,Berlin,Healthy,Premium,2022-03-10,32,2.7,1
+V00305,Restaurant_305,UAE,Berlin,Fast Food,Standard,2021-06-27,39,3.3,1
+V00306,Restaurant_306,Saudi Arabia,Sarajevo,Turkish,Budget,2022-07-20,34,4.9,1
+V00307,Restaurant_307,Bosnia,Sarajevo,Mexican,Budget,2021-08-07,36,3.2,1
+V00308,Restaurant_308,Saudi Arabia,Istanbul,Indian,Budget,2022-05-16,23,3.3,1
+V00309,Restaurant_309,Germany,Dhaka,Turkish,Standard,2023-11-27,25,4.6,1
+V00310,Restaurant_310,Germany,Taipei,Mexican,Standard,2023-02-12,31,2.6,1
+V00311,Restaurant_311,Bosnia,Dubai,Indian,Premium,2023-09-17,30,3.7,1
+V00312,Restaurant_312,Turkey,Sarajevo,Turkish,Standard,2022-09-23,30,3.4,1
+V00313,Restaurant_313,Germany,Dubai,Mexican,Standard,2020-11-13,17,3.3,1
+V00314,Restaurant_314,UAE,Dhaka,Turkish,Premium,2021-01-23,25,3.2,1
+V00315,Restaurant_315,Saudi Arabia,Dhaka,Turkish,Standard,2021-08-30,40,2.7,1
+V00316,Restaurant_316,Germany,Dubai,Indian,Standard,2021-03-21,19,3.3,0
+V00317,Restaurant_317,Germany,Sarajevo,Turkish,Budget,2020-04-29,41,2.6,1
+V00318,Restaurant_318,Turkey,Dubai,Turkish,Budget,2023-04-01,43,4.5,1
+V00319,Restaurant_319,Bosnia,Istanbul,Indian,Budget,2023-01-15,18,3.5,1
+V00320,Restaurant_320,Bosnia,Riyadh,Fast Food,Standard,2020-05-04,26,3.6,1
+V00321,Restaurant_321,Bangladesh,Sarajevo,Italian,Standard,2021-10-04,20,4.7,1
+V00322,Restaurant_322,Turkey,Sarajevo,Dessert,Standard,2020-04-27,41,4.1,1
+V00323,Restaurant_323,UAE,Taipei,Asian,Budget,2020-04-12,19,2.5,1
+V00324,Restaurant_324,Bosnia,Berlin,Healthy,Premium,2023-04-11,31,4.9,1
+V00325,Restaurant_325,Saudi Arabia,Riyadh,Asian,Standard,2022-09-03,26,3.1,1
+V00326,Restaurant_326,Turkey,Dhaka,Asian,Budget,2022-10-26,13,2.8,1
+V00327,Restaurant_327,Germany,Sarajevo,Mexican,Standard,2022-12-23,34,4.4,1
+V00328,Restaurant_328,Saudi Arabia,Dubai,Italian,Standard,2020-11-18,30,3.8,1
+V00329,Restaurant_329,Saudi Arabia,Riyadh,Mexican,Standard,2020-04-26,10,3.6,1
+V00330,Restaurant_330,Germany,Taipei,Italian,Premium,2022-11-06,34,3.1,1
+V00331,Restaurant_331,Turkey,Dhaka,Indian,Standard,2020-06-13,26,3.9,1
+V00332,Restaurant_332,Germany,Berlin,Indian,Standard,2021-01-15,33,3.2,1
+V00333,Restaurant_333,Bangladesh,Berlin,Dessert,Premium,2020-05-20,11,4.8,1
+V00334,Restaurant_334,Saudi Arabia,Taipei,Italian,Premium,2023-05-03,24,3.0,1
+V00335,Restaurant_335,Taiwan,Taipei,Turkish,Budget,2020-05-19,41,4.7,1
+V00336,Restaurant_336,Taiwan,Dubai,Fast Food,Standard,2023-10-14,15,3.9,1
+V00337,Restaurant_337,UAE,Sarajevo,Dessert,Standard,2021-04-26,10,4.6,1
+V00338,Restaurant_338,Bosnia,Berlin,Dessert,Standard,2022-04-06,32,4.3,0
+V00339,Restaurant_339,Germany,Dhaka,Turkish,Budget,2020-09-02,26,4.2,1
+V00340,Restaurant_340,Germany,Riyadh,Fast Food,Standard,2023-03-12,43,3.3,1
+V00341,Restaurant_341,UAE,Dhaka,Mexican,Standard,2021-05-19,38,3.1,1
+V00342,Restaurant_342,UAE,Istanbul,Fast Food,Budget,2023-03-31,18,3.0,1
+V00343,Restaurant_343,UAE,Istanbul,Mexican,Budget,2023-05-02,22,4.6,0
+V00344,Restaurant_344,Saudi Arabia,Taipei,Indian,Premium,2020-03-22,15,4.6,1
+V00345,Restaurant_345,Bangladesh,Dubai,Asian,Budget,2023-06-22,15,3.6,1
+V00346,Restaurant_346,Germany,Istanbul,Indian,Standard,2020-06-16,29,2.8,1
+V00347,Restaurant_347,Saudi Arabia,Berlin,Indian,Standard,2022-05-08,12,3.5,1
+V00348,Restaurant_348,UAE,Dhaka,Asian,Premium,2023-09-08,26,4.0,1
+V00349,Restaurant_349,Germany,Dhaka,Fast Food,Premium,2023-04-10,21,3.6,1
+V00350,Restaurant_350,Saudi Arabia,Taipei,Dessert,Budget,2023-03-03,10,4.5,1
+V00351,Restaurant_351,Bangladesh,Sarajevo,Fast Food,Standard,2022-12-06,26,5.0,1
+V00352,Restaurant_352,Saudi Arabia,Sarajevo,Mexican,Standard,2021-10-09,12,3.0,1
+V00353,Restaurant_353,Bangladesh,Riyadh,Turkish,Budget,2021-06-18,35,3.6,0
+V00354,Restaurant_354,UAE,Taipei,Mexican,Budget,2021-02-22,24,3.6,1
+V00355,Restaurant_355,Bangladesh,Riyadh,Turkish,Premium,2023-10-03,41,3.3,1
+V00356,Restaurant_356,Germany,Sarajevo,Indian,Standard,2021-10-05,41,3.0,1
+V00357,Restaurant_357,UAE,Taipei,Asian,Premium,2021-05-03,13,2.7,1
+V00358,Restaurant_358,Germany,Taipei,Indian,Budget,2021-06-27,27,4.7,1
+V00359,Restaurant_359,Taiwan,Taipei,Italian,Standard,2022-03-21,28,3.5,1
+V00360,Restaurant_360,Turkey,Sarajevo,Fast Food,Budget,2020-09-25,44,3.7,1
+V00361,Restaurant_361,Bangladesh,Riyadh,Turkish,Premium,2023-10-07,23,4.8,0
+V00362,Restaurant_362,Turkey,Riyadh,Mexican,Premium,2023-08-14,42,4.4,1
+V00363,Restaurant_363,Turkey,Taipei,Asian,Standard,2021-09-06,23,2.8,1
+V00364,Restaurant_364,Bangladesh,Istanbul,Turkish,Standard,2022-07-25,43,3.9,1
+V00365,Restaurant_365,UAE,Dubai,Mexican,Standard,2021-10-09,13,3.6,1
+V00366,Restaurant_366,Taiwan,Sarajevo,Fast Food,Budget,2020-05-28,33,4.5,1
+V00367,Restaurant_367,Germany,Dubai,Indian,Standard,2020-01-20,38,4.3,1
+V00368,Restaurant_368,Saudi Arabia,Dubai,Fast Food,Standard,2022-07-27,28,4.2,1
+V00369,Restaurant_369,Germany,Riyadh,Healthy,Budget,2023-06-26,15,3.4,0
+V00370,Restaurant_370,Saudi Arabia,Riyadh,Italian,Standard,2023-02-27,42,4.5,1
+V00371,Restaurant_371,Germany,Istanbul,Healthy,Budget,2020-07-23,28,2.6,1
+V00372,Restaurant_372,Bangladesh,Dubai,Asian,Premium,2020-05-30,10,2.9,1
+V00373,Restaurant_373,Taiwan,Dubai,Turkish,Standard,2023-01-06,14,3.3,1
+V00374,Restaurant_374,Saudi Arabia,Taipei,Asian,Premium,2021-03-12,36,2.7,1
+V00375,Restaurant_375,Bosnia,Riyadh,Indian,Premium,2022-11-02,25,3.1,1
+V00376,Restaurant_376,UAE,Dubai,Mexican,Budget,2021-06-27,15,4.6,1
+V00377,Restaurant_377,Germany,Dhaka,Fast Food,Premium,2020-09-28,22,4.9,1
+V00378,Restaurant_378,Germany,Istanbul,Healthy,Standard,2021-12-15,44,3.3,1
+V00379,Restaurant_379,Saudi Arabia,Dhaka,Dessert,Standard,2020-05-20,28,3.2,1
+V00380,Restaurant_380,UAE,Dhaka,Healthy,Standard,2021-05-15,21,3.2,1
+V00381,Restaurant_381,UAE,Sarajevo,Indian,Budget,2022-01-26,25,3.2,1
+V00382,Restaurant_382,Bangladesh,Sarajevo,Healthy,Premium,2021-08-06,19,2.6,1
+V00383,Restaurant_383,Bosnia,Istanbul,Indian,Standard,2020-11-19,34,4.8,1
+V00384,Restaurant_384,Bangladesh,Dhaka,Dessert,Budget,2022-06-16,29,3.0,1
+V00385,Restaurant_385,Bangladesh,Dubai,Asian,Standard,2023-01-17,40,3.6,1
+V00386,Restaurant_386,Bangladesh,Riyadh,Fast Food,Budget,2023-12-11,13,2.5,1
+V00387,Restaurant_387,Bangladesh,Istanbul,Turkish,Premium,2021-09-11,32,4.6,1
+V00388,Restaurant_388,Bangladesh,Taipei,Mexican,Standard,2023-06-06,11,4.3,1
+V00389,Restaurant_389,Taiwan,Dhaka,Turkish,Standard,2023-09-01,31,4.9,1
+V00390,Restaurant_390,UAE,Istanbul,Asian,Budget,2022-12-19,17,4.5,1
+V00391,Restaurant_391,Bangladesh,Berlin,Mexican,Budget,2020-01-17,16,3.3,1
+V00392,Restaurant_392,UAE,Berlin,Healthy,Standard,2023-09-29,23,3.1,1
+V00393,Restaurant_393,UAE,Sarajevo,Dessert,Standard,2023-02-09,12,4.2,1
+V00394,Restaurant_394,Turkey,Riyadh,Dessert,Premium,2021-09-05,25,3.4,1
+V00395,Restaurant_395,Taiwan,Dubai,Italian,Standard,2023-09-20,28,3.9,1
+V00396,Restaurant_396,Bangladesh,Riyadh,Asian,Standard,2020-07-31,27,2.5,1
+V00397,Restaurant_397,Germany,Riyadh,Asian,Budget,2020-10-02,25,2.7,0
+V00398,Restaurant_398,Saudi Arabia,Riyadh,Fast Food,Standard,2021-06-25,17,3.8,1
+V00399,Restaurant_399,Bosnia,Riyadh,Turkish,Standard,2020-08-24,42,3.9,1
+V00400,Restaurant_400,Germany,Taipei,Asian,Premium,2020-08-07,21,4.4,1
+V00401,Restaurant_401,Taiwan,Taipei,Asian,Premium,2023-02-07,20,2.8,1
+V00402,Restaurant_402,Saudi Arabia,Sarajevo,Healthy,Standard,2020-11-14,14,3.8,1
+V00403,Restaurant_403,Taiwan,Istanbul,Healthy,Standard,2021-07-11,36,3.0,1
+V00404,Restaurant_404,UAE,Berlin,Mexican,Budget,2021-07-31,21,2.7,1
+V00405,Restaurant_405,Saudi Arabia,Riyadh,Indian,Standard,2023-05-23,26,3.5,1
+V00406,Restaurant_406,UAE,Sarajevo,Indian,Standard,2021-03-07,15,2.9,1
+V00407,Restaurant_407,Germany,Istanbul,Italian,Premium,2021-12-03,42,3.1,1
+V00408,Restaurant_408,Germany,Berlin,Indian,Budget,2021-02-20,14,3.3,1
+V00409,Restaurant_409,Saudi Arabia,Dhaka,Fast Food,Budget,2023-11-08,37,3.1,1
+V00410,Restaurant_410,Saudi Arabia,Dubai,Italian,Premium,2023-07-22,23,2.7,1
+V00411,Restaurant_411,Bangladesh,Taipei,Mexican,Budget,2021-06-24,14,2.7,0
+V00412,Restaurant_412,Taiwan,Dhaka,Healthy,Standard,2022-11-01,42,3.0,0
+V00413,Restaurant_413,Bangladesh,Berlin,Indian,Premium,2022-09-27,28,2.6,1
+V00414,Restaurant_414,Taiwan,Dhaka,Turkish,Standard,2021-05-29,31,4.1,1
+V00415,Restaurant_415,Bangladesh,Dubai,Healthy,Standard,2020-04-14,14,3.2,0
+V00416,Restaurant_416,UAE,Sarajevo,Dessert,Premium,2020-07-08,11,3.2,1
+V00417,Restaurant_417,Saudi Arabia,Berlin,Fast Food,Budget,2023-07-23,39,3.3,1
+V00418,Restaurant_418,Germany,Dhaka,Healthy,Budget,2022-05-17,13,4.2,0
+V00419,Restaurant_419,Taiwan,Taipei,Fast Food,Standard,2021-07-20,42,4.7,1
+V00420,Restaurant_420,Taiwan,Taipei,Fast Food,Standard,2020-03-31,22,4.4,1
+V00421,Restaurant_421,Germany,Istanbul,Fast Food,Standard,2020-01-08,29,4.3,1
+V00422,Restaurant_422,Bangladesh,Dhaka,Mexican,Standard,2021-11-14,16,3.7,1
+V00423,Restaurant_423,Taiwan,Riyadh,Fast Food,Standard,2020-09-24,24,4.2,1
+V00424,Restaurant_424,Bosnia,Dhaka,Fast Food,Premium,2023-07-28,32,3.9,1
+V00425,Restaurant_425,UAE,Sarajevo,Dessert,Standard,2021-06-20,23,3.0,1
+V00426,Restaurant_426,Saudi Arabia,Berlin,Turkish,Budget,2020-11-26,32,3.0,1
+V00427,Restaurant_427,Germany,Berlin,Italian,Standard,2022-06-23,28,3.2,1
+V00428,Restaurant_428,Saudi Arabia,Sarajevo,Asian,Premium,2023-02-03,38,4.8,1
+V00429,Restaurant_429,Bosnia,Dhaka,Dessert,Budget,2023-12-16,29,3.9,1
+V00430,Restaurant_430,Taiwan,Sarajevo,Italian,Standard,2022-05-25,38,4.3,0
+V00431,Restaurant_431,Taiwan,Dubai,Fast Food,Standard,2023-02-22,33,3.4,1
+V00432,Restaurant_432,Bosnia,Sarajevo,Turkish,Premium,2020-01-20,27,3.5,1
+V00433,Restaurant_433,Germany,Taipei,Healthy,Standard,2020-08-17,19,2.8,1
+V00434,Restaurant_434,UAE,Sarajevo,Turkish,Budget,2020-06-03,17,2.9,1
+V00435,Restaurant_435,Turkey,Berlin,Dessert,Standard,2023-11-16,35,4.6,1
+V00436,Restaurant_436,Germany,Taipei,Fast Food,Standard,2020-11-01,38,4.0,1
+V00437,Restaurant_437,Turkey,Berlin,Turkish,Budget,2023-01-22,19,3.3,1
+V00438,Restaurant_438,Bosnia,Istanbul,Indian,Budget,2020-03-14,26,4.5,1
+V00439,Restaurant_439,Bangladesh,Riyadh,Turkish,Budget,2022-01-26,11,3.1,1
+V00440,Restaurant_440,Turkey,Berlin,Fast Food,Standard,2023-04-07,15,4.9,1
+V00441,Restaurant_441,UAE,Taipei,Mexican,Standard,2023-02-05,14,3.4,1
+V00442,Restaurant_442,Bangladesh,Istanbul,Indian,Budget,2020-10-30,37,3.3,1
+V00443,Restaurant_443,Turkey,Berlin,Turkish,Budget,2022-05-30,14,3.3,1
+V00444,Restaurant_444,Bosnia,Dubai,Asian,Premium,2020-09-18,27,2.8,1
+V00445,Restaurant_445,Bangladesh,Sarajevo,Asian,Premium,2020-03-26,35,2.8,0
+V00446,Restaurant_446,Bosnia,Riyadh,Turkish,Standard,2021-09-23,29,4.1,1
+V00447,Restaurant_447,Turkey,Berlin,Mexican,Budget,2022-01-16,36,4.7,1
+V00448,Restaurant_448,Bosnia,Istanbul,Healthy,Standard,2020-03-22,21,4.5,1
+V00449,Restaurant_449,UAE,Dubai,Fast Food,Standard,2022-01-02,16,2.9,1
+V00450,Restaurant_450,Turkey,Dhaka,Asian,Premium,2021-03-06,12,3.9,1
+V00451,Restaurant_451,Turkey,Istanbul,Healthy,Standard,2023-10-28,19,2.8,1
+V00452,Restaurant_452,Turkey,Sarajevo,Turkish,Budget,2021-05-26,43,2.6,1
+V00453,Restaurant_453,Germany,Istanbul,Dessert,Standard,2023-09-27,34,4.1,1
+V00454,Restaurant_454,Germany,Dubai,Healthy,Budget,2020-07-29,44,3.8,1
+V00455,Restaurant_455,Germany,Istanbul,Indian,Budget,2021-12-25,25,2.7,1
+V00456,Restaurant_456,UAE,Dubai,Italian,Standard,2023-02-20,11,2.6,1
+V00457,Restaurant_457,Bangladesh,Berlin,Asian,Standard,2022-04-12,33,5.0,1
+V00458,Restaurant_458,Bosnia,Dubai,Turkish,Standard,2023-06-25,19,2.6,1
+V00459,Restaurant_459,Taiwan,Dubai,Dessert,Budget,2020-11-12,31,3.6,1
+V00460,Restaurant_460,Turkey,Riyadh,Fast Food,Standard,2021-04-29,35,3.8,1
+V00461,Restaurant_461,Bosnia,Dubai,Dessert,Standard,2020-11-28,36,2.8,1
+V00462,Restaurant_462,Turkey,Dubai,Mexican,Budget,2020-12-28,38,2.9,0
+V00463,Restaurant_463,UAE,Dhaka,Indian,Standard,2022-04-24,29,3.4,1
+V00464,Restaurant_464,Turkey,Berlin,Turkish,Budget,2020-02-20,36,4.4,1
+V00465,Restaurant_465,Germany,Sarajevo,Fast Food,Standard,2021-01-02,29,3.8,1
+V00466,Restaurant_466,Taiwan,Riyadh,Mexican,Premium,2021-11-11,28,4.1,1
+V00467,Restaurant_467,Saudi Arabia,Dhaka,Mexican,Standard,2022-04-23,29,5.0,1
+V00468,Restaurant_468,Turkey,Taipei,Turkish,Budget,2023-10-03,44,4.4,1
+V00469,Restaurant_469,Bosnia,Berlin,Indian,Standard,2021-05-23,11,3.6,1
+V00470,Restaurant_470,Germany,Berlin,Healthy,Budget,2021-06-30,39,3.6,1
+V00471,Restaurant_471,Saudi Arabia,Taipei,Healthy,Budget,2020-11-22,43,4.0,1
+V00472,Restaurant_472,Taiwan,Sarajevo,Mexican,Standard,2023-12-07,31,4.2,1
+V00473,Restaurant_473,Saudi Arabia,Dubai,Healthy,Budget,2020-08-09,12,3.8,1
+V00474,Restaurant_474,Germany,Dhaka,Italian,Premium,2022-02-22,15,4.1,1
+V00475,Restaurant_475,Bangladesh,Istanbul,Mexican,Standard,2020-03-20,24,2.6,1
+V00476,Restaurant_476,Bangladesh,Riyadh,Mexican,Premium,2022-08-21,36,3.6,1
+V00477,Restaurant_477,Saudi Arabia,Istanbul,Fast Food,Budget,2021-03-31,19,3.2,1
+V00478,Restaurant_478,UAE,Taipei,Healthy,Standard,2021-02-12,18,2.8,1
+V00479,Restaurant_479,Bosnia,Berlin,Indian,Premium,2022-07-31,42,2.7,1
+V00480,Restaurant_480,Bosnia,Sarajevo,Mexican,Standard,2021-12-17,41,4.0,1
+V00481,Restaurant_481,Saudi Arabia,Berlin,Dessert,Standard,2021-09-17,15,3.8,0
+V00482,Restaurant_482,Turkey,Riyadh,Indian,Premium,2021-04-11,11,3.1,1
+V00483,Restaurant_483,Turkey,Berlin,Italian,Budget,2021-04-01,38,3.7,1
+V00484,Restaurant_484,Bosnia,Berlin,Fast Food,Budget,2020-02-18,13,3.7,1
+V00485,Restaurant_485,Bosnia,Riyadh,Turkish,Standard,2023-09-13,10,3.0,1
+V00486,Restaurant_486,Bangladesh,Dhaka,Indian,Budget,2021-01-30,28,4.1,0
+V00487,Restaurant_487,UAE,Dhaka,Mexican,Standard,2022-03-27,35,4.5,1
+V00488,Restaurant_488,Germany,Riyadh,Italian,Budget,2021-11-03,34,4.5,1
+V00489,Restaurant_489,Turkey,Sarajevo,Asian,Standard,2021-07-24,19,4.0,1
+V00490,Restaurant_490,Bosnia,Taipei,Italian,Standard,2020-05-22,24,3.8,1
+V00491,Restaurant_491,Bangladesh,Berlin,Italian,Premium,2021-07-25,31,2.7,0
+V00492,Restaurant_492,Taiwan,Sarajevo,Fast Food,Budget,2021-12-20,30,3.2,1
+V00493,Restaurant_493,Bangladesh,Berlin,Turkish,Standard,2023-08-06,31,2.7,0
+V00494,Restaurant_494,Turkey,Taipei,Asian,Premium,2022-11-09,43,4.9,1
+V00495,Restaurant_495,Turkey,Dhaka,Healthy,Premium,2022-03-29,39,2.8,1
+V00496,Restaurant_496,Bangladesh,Sarajevo,Healthy,Standard,2023-10-23,34,2.9,1
+V00497,Restaurant_497,Germany,Dubai,Indian,Standard,2023-01-03,37,4.7,1
+V00498,Restaurant_498,Saudi Arabia,Dubai,Italian,Budget,2021-11-09,10,4.9,1
+V00499,Restaurant_499,Turkey,Dubai,Dessert,Budget,2020-02-26,13,4.4,1
+V00500,Restaurant_500,Bangladesh,Dhaka,Fast Food,Premium,2020-08-24,16,2.5,1
+V00501,Restaurant_501,Bosnia,Dhaka,Dessert,Budget,2021-06-18,18,2.5,1
+V00502,Restaurant_502,Bangladesh,Taipei,Fast Food,Premium,2020-12-31,28,3.4,1
+V00503,Restaurant_503,UAE,Berlin,Healthy,Budget,2023-04-04,10,2.9,1
+V00504,Restaurant_504,Saudi Arabia,Taipei,Indian,Budget,2021-06-27,19,2.5,1
+V00505,Restaurant_505,Taiwan,Taipei,Indian,Standard,2020-03-19,18,3.7,1
+V00506,Restaurant_506,Germany,Dhaka,Indian,Budget,2020-08-10,41,4.9,1
+V00507,Restaurant_507,Taiwan,Dubai,Asian,Standard,2023-05-06,41,3.3,1
+V00508,Restaurant_508,Saudi Arabia,Istanbul,Turkish,Standard,2022-06-08,15,4.2,1
+V00509,Restaurant_509,Saudi Arabia,Berlin,Asian,Budget,2021-12-08,26,4.1,1
+V00510,Restaurant_510,Saudi Arabia,Dhaka,Mexican,Standard,2021-10-04,19,3.1,1
+V00511,Restaurant_511,Taiwan,Dubai,Mexican,Standard,2022-06-12,36,4.1,1
+V00512,Restaurant_512,Bosnia,Sarajevo,Dessert,Standard,2023-05-26,44,3.0,1
+V00513,Restaurant_513,Saudi Arabia,Istanbul,Turkish,Budget,2022-11-13,30,2.8,0
+V00514,Restaurant_514,Bangladesh,Istanbul,Healthy,Standard,2020-08-24,34,4.3,1
+V00515,Restaurant_515,Taiwan,Dhaka,Turkish,Premium,2022-02-27,37,2.8,1
+V00516,Restaurant_516,Saudi Arabia,Riyadh,Fast Food,Budget,2023-03-26,24,5.0,1
+V00517,Restaurant_517,Bangladesh,Berlin,Mexican,Budget,2021-01-24,13,3.0,1
+V00518,Restaurant_518,Bosnia,Istanbul,Italian,Premium,2021-06-05,38,4.0,1
+V00519,Restaurant_519,UAE,Dhaka,Italian,Standard,2020-03-31,18,3.5,1
+V00520,Restaurant_520,Bosnia,Dhaka,Healthy,Premium,2023-12-22,36,2.8,1
+V00521,Restaurant_521,Saudi Arabia,Dubai,Fast Food,Standard,2022-06-12,35,2.6,0
+V00522,Restaurant_522,Taiwan,Sarajevo,Dessert,Standard,2020-01-04,28,4.1,1
+V00523,Restaurant_523,Turkey,Riyadh,Asian,Budget,2022-11-30,37,4.5,1
+V00524,Restaurant_524,Saudi Arabia,Berlin,Fast Food,Standard,2023-01-07,26,4.6,1
+V00525,Restaurant_525,Turkey,Taipei,Italian,Standard,2023-11-07,29,3.7,1
+V00526,Restaurant_526,Bangladesh,Sarajevo,Italian,Standard,2023-10-05,32,4.4,0
+V00527,Restaurant_527,UAE,Sarajevo,Dessert,Budget,2021-02-07,41,4.2,1
+V00528,Restaurant_528,Germany,Dubai,Mexican,Standard,2022-01-15,42,4.3,1
+V00529,Restaurant_529,Bosnia,Istanbul,Fast Food,Budget,2022-06-02,14,3.7,1
+V00530,Restaurant_530,UAE,Istanbul,Fast Food,Standard,2020-05-23,43,4.1,1
+V00531,Restaurant_531,Saudi Arabia,Dubai,Italian,Premium,2023-09-22,20,4.5,0
+V00532,Restaurant_532,Turkey,Dhaka,Asian,Standard,2021-11-07,12,3.5,1
+V00533,Restaurant_533,Bosnia,Istanbul,Healthy,Standard,2023-06-30,42,4.5,1
+V00534,Restaurant_534,Turkey,Riyadh,Indian,Standard,2021-10-04,20,4.0,0
+V00535,Restaurant_535,Taiwan,Berlin,Healthy,Premium,2023-09-20,25,2.9,0
+V00536,Restaurant_536,Turkey,Sarajevo,Fast Food,Premium,2020-09-12,27,2.6,1
+V00537,Restaurant_537,Taiwan,Sarajevo,Healthy,Budget,2021-09-07,39,3.4,1
+V00538,Restaurant_538,Bangladesh,Riyadh,Italian,Standard,2022-11-04,19,3.9,1
+V00539,Restaurant_539,Bosnia,Istanbul,Italian,Budget,2021-09-25,27,4.6,1
+V00540,Restaurant_540,Bosnia,Sarajevo,Dessert,Standard,2023-09-27,28,2.8,1
+V00541,Restaurant_541,Germany,Taipei,Fast Food,Standard,2022-04-16,22,4.5,1
+V00542,Restaurant_542,Saudi Arabia,Berlin,Dessert,Standard,2021-10-30,12,4.7,1
+V00543,Restaurant_543,Taiwan,Berlin,Fast Food,Standard,2022-04-04,19,2.9,1
+V00544,Restaurant_544,Germany,Sarajevo,Indian,Standard,2023-11-28,10,4.6,1
+V00545,Restaurant_545,Turkey,Dubai,Indian,Standard,2021-08-28,36,5.0,1
+V00546,Restaurant_546,Turkey,Sarajevo,Mexican,Premium,2023-02-09,17,4.3,1
+V00547,Restaurant_547,Germany,Dubai,Fast Food,Standard,2020-09-17,26,4.5,1
+V00548,Restaurant_548,Bosnia,Sarajevo,Asian,Standard,2021-01-27,18,5.0,1
+V00549,Restaurant_549,Turkey,Taipei,Healthy,Budget,2022-05-11,15,4.0,1
+V00550,Restaurant_550,Bangladesh,Dhaka,Fast Food,Budget,2023-09-23,34,3.3,1
+V00551,Restaurant_551,Bangladesh,Berlin,Turkish,Budget,2022-02-15,37,4.6,1
+V00552,Restaurant_552,Germany,Sarajevo,Mexican,Budget,2023-10-19,42,4.0,1
+V00553,Restaurant_553,Taiwan,Taipei,Turkish,Standard,2020-12-22,18,4.0,1
+V00554,Restaurant_554,Taiwan,Dubai,Italian,Standard,2023-06-14,27,3.1,1
+V00555,Restaurant_555,Germany,Dubai,Indian,Budget,2023-03-11,30,4.4,1
+V00556,Restaurant_556,Taiwan,Berlin,Healthy,Standard,2021-09-08,11,2.7,1
+V00557,Restaurant_557,Bosnia,Riyadh,Fast Food,Standard,2022-04-11,24,4.8,1
+V00558,Restaurant_558,Bosnia,Sarajevo,Turkish,Premium,2023-01-27,37,3.3,0
+V00559,Restaurant_559,Taiwan,Istanbul,Healthy,Standard,2020-01-01,27,2.8,1
+V00560,Restaurant_560,Bangladesh,Dubai,Italian,Standard,2021-09-14,43,3.6,1
+V00561,Restaurant_561,Taiwan,Dhaka,Indian,Budget,2021-08-10,31,2.6,0
+V00562,Restaurant_562,Bosnia,Dhaka,Asian,Standard,2021-03-06,20,4.2,1
+V00563,Restaurant_563,UAE,Dubai,Mexican,Standard,2022-05-30,22,4.8,1
+V00564,Restaurant_564,Saudi Arabia,Riyadh,Healthy,Budget,2023-04-02,13,4.6,1
+V00565,Restaurant_565,Turkey,Riyadh,Healthy,Premium,2023-05-27,31,2.8,0
+V00566,Restaurant_566,UAE,Taipei,Asian,Standard,2023-09-02,16,2.8,1
+V00567,Restaurant_567,Taiwan,Dhaka,Healthy,Premium,2021-10-21,33,4.5,1
+V00568,Restaurant_568,Bangladesh,Taipei,Italian,Budget,2022-08-10,13,4.8,1
+V00569,Restaurant_569,Germany,Dhaka,Italian,Budget,2022-06-23,37,3.7,1
+V00570,Restaurant_570,Taiwan,Sarajevo,Asian,Standard,2022-06-24,24,3.7,1
+V00571,Restaurant_571,Bangladesh,Sarajevo,Mexican,Budget,2023-10-15,10,3.3,1
+V00572,Restaurant_572,Saudi Arabia,Istanbul,Fast Food,Standard,2021-03-13,12,4.7,1
+V00573,Restaurant_573,Taiwan,Sarajevo,Turkish,Budget,2022-11-12,23,4.1,1
+V00574,Restaurant_574,Bosnia,Istanbul,Fast Food,Budget,2022-08-27,10,3.2,1
+V00575,Restaurant_575,Germany,Sarajevo,Healthy,Budget,2020-12-13,30,3.2,1
+V00576,Restaurant_576,Bangladesh,Berlin,Turkish,Premium,2023-09-11,38,4.7,1
+V00577,Restaurant_577,Bangladesh,Sarajevo,Dessert,Budget,2020-06-22,14,2.5,1
+V00578,Restaurant_578,Bangladesh,Taipei,Asian,Budget,2021-08-04,19,3.3,1
+V00579,Restaurant_579,Saudi Arabia,Dubai,Asian,Standard,2022-11-21,37,3.9,1
+V00580,Restaurant_580,Taiwan,Taipei,Mexican,Budget,2023-09-21,30,2.9,1
+V00581,Restaurant_581,Saudi Arabia,Dubai,Turkish,Standard,2023-07-20,16,2.7,1
+V00582,Restaurant_582,Turkey,Riyadh,Italian,Budget,2023-06-22,12,4.5,1
+V00583,Restaurant_583,Turkey,Taipei,Turkish,Premium,2021-11-17,29,4.7,1
+V00584,Restaurant_584,Taiwan,Riyadh,Healthy,Budget,2020-07-10,28,4.6,1
+V00585,Restaurant_585,Bosnia,Istanbul,Italian,Standard,2021-04-26,44,4.7,1
+V00586,Restaurant_586,Saudi Arabia,Istanbul,Indian,Premium,2023-10-09,13,3.9,0
+V00587,Restaurant_587,Germany,Berlin,Indian,Standard,2021-09-27,14,4.5,0
+V00588,Restaurant_588,Bangladesh,Sarajevo,Dessert,Premium,2021-04-05,10,3.5,1
+V00589,Restaurant_589,Bangladesh,Taipei,Indian,Standard,2021-02-11,13,4.2,1
+V00590,Restaurant_590,Taiwan,Riyadh,Asian,Standard,2020-10-28,21,5.0,1
+V00591,Restaurant_591,Bosnia,Dubai,Turkish,Standard,2020-02-20,36,3.1,1
+V00592,Restaurant_592,Turkey,Istanbul,Indian,Standard,2020-04-04,32,3.5,1
+V00593,Restaurant_593,Turkey,Sarajevo,Fast Food,Standard,2021-05-16,34,3.7,0
+V00594,Restaurant_594,Bangladesh,Istanbul,Mexican,Budget,2022-08-31,30,2.8,1
+V00595,Restaurant_595,Taiwan,Dubai,Fast Food,Premium,2023-06-05,33,2.7,0
+V00596,Restaurant_596,Saudi Arabia,Sarajevo,Indian,Budget,2020-05-29,34,4.6,1
+V00597,Restaurant_597,Turkey,Sarajevo,Dessert,Budget,2022-07-21,41,4.9,1
+V00598,Restaurant_598,Saudi Arabia,Riyadh,Mexican,Standard,2022-04-28,41,3.5,1
+V00599,Restaurant_599,Bosnia,Riyadh,Healthy,Standard,2023-07-13,14,2.7,1
+V00600,Restaurant_600,Turkey,Taipei,Fast Food,Budget,2023-03-24,25,2.7,1
+V00601,Restaurant_601,Turkey,Taipei,Dessert,Premium,2021-02-02,42,4.7,1
+V00602,Restaurant_602,UAE,Dhaka,Turkish,Premium,2023-11-27,30,3.7,1
+V00603,Restaurant_603,Turkey,Dhaka,Turkish,Standard,2022-02-25,18,3.3,1
+V00604,Restaurant_604,Germany,Berlin,Fast Food,Budget,2022-10-09,15,3.7,1
+V00605,Restaurant_605,Taiwan,Istanbul,Indian,Premium,2022-03-29,44,3.3,1
+V00606,Restaurant_606,Taiwan,Taipei,Dessert,Standard,2021-05-14,31,3.7,1
+V00607,Restaurant_607,Saudi Arabia,Riyadh,Turkish,Budget,2020-10-29,14,4.6,1
+V00608,Restaurant_608,Bosnia,Dubai,Healthy,Budget,2023-09-05,32,4.0,0
+V00609,Restaurant_609,Turkey,Riyadh,Italian,Standard,2023-11-09,26,4.2,1
+V00610,Restaurant_610,Germany,Istanbul,Indian,Premium,2020-01-12,21,3.4,1
+V00611,Restaurant_611,Saudi Arabia,Dhaka,Dessert,Budget,2020-08-06,32,4.3,1
+V00612,Restaurant_612,UAE,Riyadh,Healthy,Standard,2022-05-20,25,4.2,1
+V00613,Restaurant_613,Saudi Arabia,Berlin,Dessert,Premium,2021-03-24,12,2.8,1
+V00614,Restaurant_614,Saudi Arabia,Istanbul,Mexican,Premium,2020-12-26,39,3.9,1
+V00615,Restaurant_615,Turkey,Dhaka,Healthy,Budget,2023-11-26,31,3.1,1
+V00616,Restaurant_616,UAE,Dubai,Indian,Standard,2022-11-26,18,4.5,1
+V00617,Restaurant_617,Saudi Arabia,Dhaka,Mexican,Budget,2022-08-09,38,3.6,1
+V00618,Restaurant_618,Germany,Sarajevo,Indian,Budget,2020-04-12,32,5.0,0
+V00619,Restaurant_619,Germany,Berlin,Turkish,Standard,2023-02-15,22,2.7,0
+V00620,Restaurant_620,Taiwan,Istanbul,Italian,Standard,2021-05-25,41,4.5,1
+V00621,Restaurant_621,UAE,Dubai,Indian,Standard,2020-09-05,32,4.2,1
+V00622,Restaurant_622,UAE,Berlin,Indian,Standard,2022-07-23,26,4.4,1
+V00623,Restaurant_623,Taiwan,Dhaka,Turkish,Standard,2020-09-30,30,3.3,1
+V00624,Restaurant_624,Saudi Arabia,Berlin,Asian,Budget,2022-08-09,11,3.7,1
+V00625,Restaurant_625,UAE,Istanbul,Turkish,Standard,2023-09-29,15,4.5,1
+V00626,Restaurant_626,Germany,Taipei,Mexican,Budget,2022-12-23,27,3.1,0
+V00627,Restaurant_627,Germany,Berlin,Turkish,Standard,2023-02-18,39,3.1,0
+V00628,Restaurant_628,Turkey,Sarajevo,Turkish,Standard,2023-05-04,31,3.9,1
+V00629,Restaurant_629,UAE,Berlin,Italian,Standard,2021-10-11,42,3.8,1
+V00630,Restaurant_630,Saudi Arabia,Dhaka,Turkish,Standard,2022-06-25,39,3.2,1
+V00631,Restaurant_631,Taiwan,Dhaka,Dessert,Budget,2023-06-08,26,3.2,1
+V00632,Restaurant_632,Taiwan,Dubai,Indian,Standard,2022-10-30,41,3.2,1
+V00633,Restaurant_633,Saudi Arabia,Dhaka,Dessert,Standard,2022-05-23,23,4.4,1
+V00634,Restaurant_634,Bosnia,Riyadh,Italian,Premium,2023-01-27,19,4.1,0
+V00635,Restaurant_635,Bangladesh,Istanbul,Fast Food,Standard,2022-07-02,43,4.6,1
+V00636,Restaurant_636,Turkey,Istanbul,Asian,Standard,2020-11-21,18,4.9,1
+V00637,Restaurant_637,Taiwan,Taipei,Dessert,Standard,2022-08-30,37,3.7,1
+V00638,Restaurant_638,UAE,Taipei,Italian,Budget,2022-07-10,20,2.7,1
+V00639,Restaurant_639,Turkey,Istanbul,Mexican,Standard,2021-06-14,23,2.6,1
+V00640,Restaurant_640,UAE,Sarajevo,Fast Food,Budget,2021-05-21,28,3.2,1
+V00641,Restaurant_641,Bosnia,Taipei,Italian,Standard,2023-07-29,24,4.8,1
+V00642,Restaurant_642,Germany,Dubai,Italian,Standard,2021-07-21,37,3.8,1
+V00643,Restaurant_643,Turkey,Dhaka,Asian,Premium,2022-12-03,33,3.2,1
+V00644,Restaurant_644,Taiwan,Istanbul,Indian,Standard,2022-09-19,17,3.5,0
+V00645,Restaurant_645,Turkey,Taipei,Dessert,Standard,2023-07-07,18,4.0,1
+V00646,Restaurant_646,Turkey,Istanbul,Mexican,Standard,2021-05-04,42,4.1,1
+V00647,Restaurant_647,Turkey,Riyadh,Healthy,Premium,2021-07-16,42,2.9,1
+V00648,Restaurant_648,Bangladesh,Berlin,Dessert,Premium,2022-06-19,28,4.9,1
+V00649,Restaurant_649,Turkey,Dhaka,Healthy,Standard,2020-06-07,12,3.9,1
+V00650,Restaurant_650,UAE,Istanbul,Italian,Budget,2021-08-08,19,2.8,0
+V00651,Restaurant_651,Germany,Berlin,Turkish,Standard,2021-04-25,10,4.7,0
+V00652,Restaurant_652,Bosnia,Taipei,Mexican,Standard,2021-07-10,38,2.7,1
+V00653,Restaurant_653,Saudi Arabia,Berlin,Fast Food,Premium,2021-11-18,43,4.8,1
+V00654,Restaurant_654,Turkey,Dhaka,Turkish,Standard,2021-10-16,22,5.0,1
+V00655,Restaurant_655,Taiwan,Istanbul,Turkish,Standard,2023-01-11,10,4.3,1
+V00656,Restaurant_656,Turkey,Riyadh,Dessert,Standard,2020-06-14,43,4.4,1
+V00657,Restaurant_657,Taiwan,Sarajevo,Mexican,Standard,2020-10-10,38,3.3,1
+V00658,Restaurant_658,UAE,Taipei,Indian,Premium,2020-11-04,22,4.9,1
+V00659,Restaurant_659,Taiwan,Istanbul,Italian,Premium,2021-04-18,38,3.8,1
+V00660,Restaurant_660,Saudi Arabia,Dhaka,Italian,Standard,2022-02-23,33,4.3,1
+V00661,Restaurant_661,Germany,Taipei,Italian,Premium,2023-11-22,35,4.8,0
+V00662,Restaurant_662,Taiwan,Dubai,Italian,Premium,2020-11-08,26,4.9,1
+V00663,Restaurant_663,Taiwan,Berlin,Dessert,Standard,2023-12-17,16,4.6,1
+V00664,Restaurant_664,Germany,Sarajevo,Healthy,Budget,2021-03-14,22,3.3,1
+V00665,Restaurant_665,Saudi Arabia,Dhaka,Italian,Standard,2020-05-11,14,4.9,1
+V00666,Restaurant_666,Turkey,Dubai,Healthy,Standard,2022-04-29,35,4.1,1
+V00667,Restaurant_667,Taiwan,Istanbul,Healthy,Standard,2022-04-14,12,4.8,1
+V00668,Restaurant_668,Germany,Riyadh,Indian,Budget,2021-11-08,16,4.2,0
+V00669,Restaurant_669,UAE,Taipei,Italian,Standard,2023-01-16,10,3.3,1
+V00670,Restaurant_670,Germany,Berlin,Asian,Premium,2022-08-12,26,3.4,1
+V00671,Restaurant_671,UAE,Taipei,Fast Food,Standard,2022-05-01,34,3.9,1
+V00672,Restaurant_672,Saudi Arabia,Sarajevo,Turkish,Premium,2020-05-07,12,4.5,1
+V00673,Restaurant_673,Turkey,Istanbul,Healthy,Standard,2021-02-27,24,3.3,1
+V00674,Restaurant_674,Germany,Taipei,Mexican,Standard,2022-05-10,38,3.9,0
+V00675,Restaurant_675,Bosnia,Berlin,Mexican,Budget,2022-03-08,41,3.4,1
+V00676,Restaurant_676,Bosnia,Istanbul,Fast Food,Standard,2023-04-11,35,4.5,1
+V00677,Restaurant_677,Bangladesh,Taipei,Mexican,Budget,2023-11-25,25,3.7,1
+V00678,Restaurant_678,Taiwan,Riyadh,Asian,Budget,2020-02-10,34,2.7,1
+V00679,Restaurant_679,Saudi Arabia,Dhaka,Mexican,Premium,2023-03-25,37,2.9,0
+V00680,Restaurant_680,Germany,Istanbul,Turkish,Standard,2022-02-18,18,2.7,0
+V00681,Restaurant_681,Bosnia,Dhaka,Turkish,Standard,2022-09-03,10,3.7,1
+V00682,Restaurant_682,Taiwan,Istanbul,Healthy,Standard,2020-01-13,38,2.8,1
+V00683,Restaurant_683,Bosnia,Riyadh,Italian,Standard,2021-12-21,31,2.8,1
+V00684,Restaurant_684,Germany,Dhaka,Indian,Budget,2021-09-03,25,4.9,1
+V00685,Restaurant_685,UAE,Dubai,Asian,Budget,2022-03-09,16,4.7,0
+V00686,Restaurant_686,Germany,Berlin,Healthy,Standard,2022-05-08,23,3.6,1
+V00687,Restaurant_687,Bangladesh,Dubai,Asian,Standard,2023-01-07,38,5.0,1
+V00688,Restaurant_688,Germany,Taipei,Italian,Budget,2023-01-23,28,2.5,1
+V00689,Restaurant_689,Germany,Riyadh,Dessert,Budget,2023-05-20,28,4.0,1
+V00690,Restaurant_690,Bangladesh,Dubai,Mexican,Budget,2021-03-27,11,4.0,1
+V00691,Restaurant_691,Saudi Arabia,Istanbul,Mexican,Premium,2022-09-26,24,3.6,1
+V00692,Restaurant_692,Germany,Taipei,Indian,Standard,2021-03-25,12,3.5,1
+V00693,Restaurant_693,Bangladesh,Taipei,Italian,Premium,2021-07-12,20,3.6,1
+V00694,Restaurant_694,Taiwan,Dubai,Healthy,Standard,2022-06-11,39,3.5,1
+V00695,Restaurant_695,UAE,Dubai,Indian,Premium,2022-09-21,27,4.3,1
+V00696,Restaurant_696,UAE,Riyadh,Italian,Standard,2020-02-29,11,2.8,1
+V00697,Restaurant_697,Germany,Berlin,Fast Food,Standard,2022-03-07,41,3.0,1
+V00698,Restaurant_698,Saudi Arabia,Dubai,Turkish,Premium,2021-11-19,17,3.0,1
+V00699,Restaurant_699,Saudi Arabia,Sarajevo,Indian,Standard,2023-10-01,31,3.2,0
+V00700,Restaurant_700,Taiwan,Dubai,Indian,Standard,2023-10-22,15,3.8,1
+V00701,Restaurant_701,Germany,Dhaka,Healthy,Standard,2022-04-08,21,2.8,1
+V00702,Restaurant_702,UAE,Istanbul,Asian,Premium,2020-12-04,24,4.7,1
+V00703,Restaurant_703,Saudi Arabia,Sarajevo,Fast Food,Standard,2022-08-15,37,3.2,1
+V00704,Restaurant_704,Germany,Sarajevo,Healthy,Budget,2020-09-18,27,2.9,1
+V00705,Restaurant_705,Bosnia,Dhaka,Italian,Premium,2023-06-28,11,4.2,1
+V00706,Restaurant_706,Saudi Arabia,Dhaka,Italian,Premium,2022-12-29,22,2.6,1
+V00707,Restaurant_707,Bangladesh,Taipei,Italian,Standard,2020-02-25,24,4.0,1
+V00708,Restaurant_708,Bosnia,Berlin,Dessert,Budget,2022-03-17,29,4.2,1
+V00709,Restaurant_709,Saudi Arabia,Istanbul,Italian,Standard,2023-04-27,38,3.0,1
+V00710,Restaurant_710,UAE,Riyadh,Asian,Standard,2023-03-01,38,2.6,1
+V00711,Restaurant_711,Turkey,Sarajevo,Fast Food,Standard,2023-09-19,12,3.4,1
+V00712,Restaurant_712,Bosnia,Riyadh,Mexican,Standard,2020-02-25,28,2.7,1
+V00713,Restaurant_713,Taiwan,Dubai,Turkish,Premium,2020-06-20,12,2.8,1
+V00714,Restaurant_714,Taiwan,Dubai,Asian,Standard,2023-08-09,23,3.1,1
+V00715,Restaurant_715,UAE,Riyadh,Asian,Budget,2022-05-27,13,3.2,0
+V00716,Restaurant_716,Saudi Arabia,Dubai,Dessert,Standard,2020-10-04,20,3.8,1
+V00717,Restaurant_717,Germany,Berlin,Mexican,Budget,2022-08-03,40,4.2,1
+V00718,Restaurant_718,Saudi Arabia,Dhaka,Mexican,Budget,2021-01-07,41,4.0,1
+V00719,Restaurant_719,UAE,Dubai,Turkish,Premium,2020-04-12,36,2.9,1
+V00720,Restaurant_720,Taiwan,Taipei,Turkish,Budget,2021-06-16,39,2.9,1
+V00721,Restaurant_721,Saudi Arabia,Dubai,Mexican,Premium,2022-02-15,11,4.7,1
+V00722,Restaurant_722,Taiwan,Istanbul,Italian,Standard,2021-11-01,18,3.9,1
+V00723,Restaurant_723,Bosnia,Berlin,Asian,Premium,2021-03-09,37,4.7,0
+V00724,Restaurant_724,Germany,Istanbul,Healthy,Premium,2022-07-20,40,3.4,1
+V00725,Restaurant_725,Bosnia,Istanbul,Turkish,Standard,2021-10-31,43,4.0,1
+V00726,Restaurant_726,Taiwan,Taipei,Dessert,Standard,2021-11-22,24,3.8,1
+V00727,Restaurant_727,Taiwan,Berlin,Dessert,Standard,2022-02-15,34,3.3,1
+V00728,Restaurant_728,Turkey,Berlin,Turkish,Standard,2021-07-23,17,3.7,1
+V00729,Restaurant_729,Turkey,Berlin,Mexican,Premium,2022-05-13,18,3.8,1
+V00730,Restaurant_730,Bosnia,Berlin,Fast Food,Premium,2021-05-31,41,3.0,1
+V00731,Restaurant_731,Bangladesh,Berlin,Healthy,Standard,2020-06-16,26,3.3,0
+V00732,Restaurant_732,Bosnia,Taipei,Healthy,Standard,2022-08-21,44,4.5,1
+V00733,Restaurant_733,Turkey,Dubai,Turkish,Budget,2020-02-09,28,4.8,1
+V00734,Restaurant_734,Taiwan,Istanbul,Italian,Standard,2023-01-09,38,3.4,0
+V00735,Restaurant_735,UAE,Berlin,Fast Food,Budget,2020-04-16,16,3.3,1
+V00736,Restaurant_736,Bosnia,Sarajevo,Healthy,Standard,2021-12-17,37,3.0,1
+V00737,Restaurant_737,Taiwan,Dubai,Turkish,Standard,2021-04-04,18,4.2,0
+V00738,Restaurant_738,UAE,Dubai,Dessert,Standard,2023-08-24,37,3.3,1
+V00739,Restaurant_739,UAE,Istanbul,Healthy,Standard,2020-05-20,15,5.0,0
+V00740,Restaurant_740,Turkey,Taipei,Indian,Standard,2023-08-27,38,3.3,1
+V00741,Restaurant_741,Bosnia,Riyadh,Fast Food,Budget,2020-03-23,26,3.5,1
+V00742,Restaurant_742,Saudi Arabia,Riyadh,Fast Food,Standard,2020-03-04,25,4.0,0
+V00743,Restaurant_743,Germany,Dubai,Indian,Budget,2021-05-21,32,4.5,1
+V00744,Restaurant_744,Turkey,Dhaka,Asian,Budget,2021-02-12,40,3.7,1
+V00745,Restaurant_745,Turkey,Dhaka,Dessert,Budget,2020-02-11,12,3.6,1
+V00746,Restaurant_746,Saudi Arabia,Istanbul,Indian,Budget,2023-06-26,30,5.0,0
+V00747,Restaurant_747,Germany,Riyadh,Mexican,Standard,2020-11-08,35,2.5,1
+V00748,Restaurant_748,Taiwan,Dubai,Mexican,Standard,2021-05-03,31,4.7,1
+V00749,Restaurant_749,Bangladesh,Taipei,Turkish,Standard,2020-09-15,21,2.9,1
+V00750,Restaurant_750,Bosnia,Riyadh,Fast Food,Standard,2022-08-27,22,4.5,1
+V00751,Restaurant_751,Bangladesh,Dubai,Asian,Standard,2023-10-03,20,4.0,1
+V00752,Restaurant_752,Taiwan,Dubai,Asian,Budget,2020-08-22,25,3.4,1
+V00753,Restaurant_753,Turkey,Berlin,Healthy,Standard,2023-03-01,17,4.7,1
+V00754,Restaurant_754,Germany,Taipei,Healthy,Standard,2021-03-22,11,2.5,1
+V00755,Restaurant_755,Turkey,Berlin,Indian,Premium,2022-08-10,39,3.1,1
+V00756,Restaurant_756,UAE,Istanbul,Asian,Standard,2023-12-03,39,3.9,1
+V00757,Restaurant_757,Turkey,Berlin,Indian,Premium,2021-06-08,21,3.4,1
+V00758,Restaurant_758,Turkey,Sarajevo,Dessert,Budget,2022-01-25,19,4.0,0
+V00759,Restaurant_759,Taiwan,Berlin,Indian,Standard,2020-12-09,20,2.6,1
+V00760,Restaurant_760,Taiwan,Sarajevo,Healthy,Premium,2023-05-25,24,2.8,1
+V00761,Restaurant_761,Taiwan,Riyadh,Fast Food,Premium,2023-05-28,25,2.8,1
+V00762,Restaurant_762,Bangladesh,Dhaka,Indian,Standard,2020-08-22,26,3.0,1
+V00763,Restaurant_763,UAE,Dubai,Italian,Standard,2020-12-01,35,3.6,1
+V00764,Restaurant_764,Taiwan,Sarajevo,Fast Food,Standard,2021-09-29,11,4.4,1
+V00765,Restaurant_765,Germany,Taipei,Asian,Premium,2020-08-09,21,4.8,1
+V00766,Restaurant_766,Bangladesh,Berlin,Asian,Standard,2023-03-31,35,4.6,0
+V00767,Restaurant_767,Saudi Arabia,Sarajevo,Indian,Standard,2020-02-22,32,3.0,1
+V00768,Restaurant_768,Germany,Taipei,Fast Food,Standard,2021-09-30,27,3.6,1
+V00769,Restaurant_769,Bosnia,Dhaka,Healthy,Standard,2023-03-25,41,3.0,1
+V00770,Restaurant_770,Bosnia,Dhaka,Healthy,Standard,2023-10-19,12,3.2,0
+V00771,Restaurant_771,Germany,Berlin,Mexican,Standard,2022-02-07,12,3.8,1
+V00772,Restaurant_772,Taiwan,Istanbul,Asian,Budget,2022-03-23,39,2.7,1
+V00773,Restaurant_773,Saudi Arabia,Berlin,Turkish,Standard,2021-02-10,10,3.0,1
+V00774,Restaurant_774,Saudi Arabia,Riyadh,Mexican,Standard,2020-06-04,39,4.8,1
+V00775,Restaurant_775,Bangladesh,Sarajevo,Healthy,Premium,2023-04-27,41,3.7,1
+V00776,Restaurant_776,Saudi Arabia,Dubai,Fast Food,Standard,2023-11-15,37,3.6,1
+V00777,Restaurant_777,Bosnia,Istanbul,Dessert,Premium,2023-07-08,30,2.5,0
+V00778,Restaurant_778,UAE,Berlin,Healthy,Standard,2021-05-12,22,3.1,0
+V00779,Restaurant_779,Taiwan,Taipei,Fast Food,Budget,2020-07-27,36,4.7,1
+V00780,Restaurant_780,Saudi Arabia,Istanbul,Mexican,Standard,2023-11-28,16,2.9,0
+V00781,Restaurant_781,Bangladesh,Sarajevo,Asian,Premium,2021-09-09,31,3.5,1
+V00782,Restaurant_782,Bosnia,Istanbul,Healthy,Premium,2023-11-02,19,2.5,1
+V00783,Restaurant_783,UAE,Sarajevo,Indian,Standard,2023-05-14,24,3.7,1
+V00784,Restaurant_784,Turkey,Berlin,Fast Food,Premium,2020-09-04,24,2.6,1
+V00785,Restaurant_785,Turkey,Sarajevo,Asian,Premium,2023-03-05,13,4.5,1
+V00786,Restaurant_786,UAE,Istanbul,Dessert,Budget,2020-03-25,41,4.6,1
+V00787,Restaurant_787,Bosnia,Taipei,Dessert,Standard,2021-12-12,32,4.5,1
+V00788,Restaurant_788,Bangladesh,Dhaka,Turkish,Standard,2022-12-27,15,3.2,1
+V00789,Restaurant_789,UAE,Istanbul,Fast Food,Budget,2022-05-27,33,4.6,1
+V00790,Restaurant_790,Taiwan,Sarajevo,Mexican,Premium,2023-09-16,29,3.9,1
+V00791,Restaurant_791,Taiwan,Dhaka,Turkish,Budget,2022-01-28,29,3.4,1
+V00792,Restaurant_792,Turkey,Sarajevo,Turkish,Standard,2020-05-21,21,4.1,1
+V00793,Restaurant_793,Saudi Arabia,Taipei,Italian,Budget,2022-11-02,42,2.5,0
+V00794,Restaurant_794,Bangladesh,Sarajevo,Healthy,Standard,2023-08-19,37,2.9,1
+V00795,Restaurant_795,Turkey,Berlin,Fast Food,Budget,2021-11-29,17,4.4,1
+V00796,Restaurant_796,Saudi Arabia,Dubai,Turkish,Budget,2020-01-26,10,3.1,0
+V00797,Restaurant_797,Saudi Arabia,Istanbul,Italian,Standard,2022-05-10,31,4.0,1
+V00798,Restaurant_798,Taiwan,Dubai,Mexican,Budget,2022-09-30,15,3.5,1
+V00799,Restaurant_799,Bosnia,Sarajevo,Asian,Standard,2020-08-04,30,4.6,1
+V00800,Restaurant_800,Germany,Taipei,Indian,Standard,2022-06-06,41,4.9,1
+V00801,Restaurant_801,Bosnia,Istanbul,Indian,Standard,2022-01-11,44,4.7,1
+V00802,Restaurant_802,Germany,Sarajevo,Fast Food,Standard,2023-07-25,24,3.2,1
+V00803,Restaurant_803,UAE,Dhaka,Turkish,Premium,2022-07-30,14,3.0,1
+V00804,Restaurant_804,Taiwan,Riyadh,Indian,Standard,2023-12-19,15,3.7,1
+V00805,Restaurant_805,Saudi Arabia,Sarajevo,Healthy,Standard,2020-11-09,34,2.5,1
+V00806,Restaurant_806,Bangladesh,Dubai,Indian,Budget,2022-06-10,38,2.6,1
+V00807,Restaurant_807,Germany,Istanbul,Indian,Budget,2020-12-26,16,3.9,1
+V00808,Restaurant_808,Bosnia,Dubai,Indian,Standard,2022-12-04,22,3.8,1
+V00809,Restaurant_809,Saudi Arabia,Istanbul,Dessert,Standard,2023-08-25,27,5.0,1
+V00810,Restaurant_810,Germany,Sarajevo,Italian,Standard,2021-07-07,11,3.0,1
+V00811,Restaurant_811,Germany,Berlin,Turkish,Premium,2023-06-15,17,3.1,1
+V00812,Restaurant_812,Germany,Dhaka,Healthy,Premium,2023-01-07,20,2.8,1
+V00813,Restaurant_813,Bangladesh,Sarajevo,Turkish,Standard,2022-09-17,42,4.8,1
+V00814,Restaurant_814,Taiwan,Dubai,Dessert,Standard,2022-08-10,36,4.4,1
+V00815,Restaurant_815,Bangladesh,Riyadh,Fast Food,Budget,2022-06-11,29,4.6,1
+V00816,Restaurant_816,Turkey,Riyadh,Fast Food,Standard,2023-04-28,21,4.8,0
+V00817,Restaurant_817,Saudi Arabia,Taipei,Fast Food,Standard,2021-07-03,40,3.8,1
+V00818,Restaurant_818,Taiwan,Istanbul,Mexican,Standard,2021-10-22,36,3.6,1
+V00819,Restaurant_819,Taiwan,Dubai,Indian,Premium,2021-05-17,41,3.3,0
+V00820,Restaurant_820,Taiwan,Taipei,Mexican,Standard,2020-06-26,19,4.0,1
+V00821,Restaurant_821,Bosnia,Dubai,Italian,Standard,2021-07-25,12,3.6,1
+V00822,Restaurant_822,Taiwan,Istanbul,Fast Food,Standard,2022-07-12,36,3.6,1
+V00823,Restaurant_823,Bangladesh,Sarajevo,Dessert,Standard,2021-05-14,44,4.8,1
+V00824,Restaurant_824,Taiwan,Sarajevo,Healthy,Budget,2022-08-09,40,5.0,1
+V00825,Restaurant_825,UAE,Riyadh,Turkish,Budget,2023-03-13,24,4.5,1
+V00826,Restaurant_826,Saudi Arabia,Sarajevo,Indian,Standard,2023-06-03,25,4.4,1
+V00827,Restaurant_827,Taiwan,Sarajevo,Asian,Standard,2023-09-30,22,4.2,1
+V00828,Restaurant_828,Saudi Arabia,Berlin,Healthy,Standard,2022-02-15,44,2.9,1
+V00829,Restaurant_829,UAE,Riyadh,Indian,Standard,2021-11-19,20,2.6,1
+V00830,Restaurant_830,UAE,Taipei,Mexican,Standard,2020-02-28,30,4.2,1
+V00831,Restaurant_831,Saudi Arabia,Dhaka,Mexican,Premium,2022-10-09,20,4.3,1
+V00832,Restaurant_832,Germany,Berlin,Healthy,Standard,2021-10-27,39,2.6,1
+V00833,Restaurant_833,Turkey,Taipei,Mexican,Standard,2021-01-07,44,4.8,0
+V00834,Restaurant_834,Bosnia,Istanbul,Fast Food,Standard,2022-09-25,31,2.7,1
+V00835,Restaurant_835,Germany,Berlin,Italian,Budget,2021-03-10,40,3.2,1
+V00836,Restaurant_836,Germany,Taipei,Turkish,Budget,2021-12-27,23,4.2,1
+V00837,Restaurant_837,Bangladesh,Istanbul,Italian,Budget,2021-06-13,33,2.9,1
+V00838,Restaurant_838,Bosnia,Riyadh,Indian,Standard,2021-11-28,41,2.6,1
+V00839,Restaurant_839,Bosnia,Dhaka,Turkish,Budget,2021-07-26,41,3.3,1
+V00840,Restaurant_840,Germany,Istanbul,Dessert,Premium,2023-05-05,24,4.4,1
+V00841,Restaurant_841,Taiwan,Sarajevo,Turkish,Budget,2023-12-07,44,3.5,1
+V00842,Restaurant_842,Bangladesh,Dubai,Italian,Premium,2021-07-19,12,4.1,1
+V00843,Restaurant_843,Bangladesh,Istanbul,Healthy,Budget,2023-02-12,25,3.9,1
+V00844,Restaurant_844,UAE,Istanbul,Turkish,Standard,2020-01-21,14,2.6,0
+V00845,Restaurant_845,Bosnia,Dhaka,Dessert,Budget,2022-11-24,30,5.0,1
+V00846,Restaurant_846,Germany,Dubai,Dessert,Budget,2021-01-26,19,2.6,1
+V00847,Restaurant_847,UAE,Sarajevo,Dessert,Premium,2020-06-24,28,4.9,1
+V00848,Restaurant_848,Saudi Arabia,Taipei,Italian,Standard,2021-05-09,34,3.9,1
+V00849,Restaurant_849,Turkey,Taipei,Turkish,Budget,2022-04-12,13,4.9,1
+V00850,Restaurant_850,Bangladesh,Istanbul,Asian,Standard,2022-09-27,38,2.8,1
+V00851,Restaurant_851,Saudi Arabia,Dubai,Healthy,Budget,2023-02-11,28,3.7,1
+V00852,Restaurant_852,Saudi Arabia,Dubai,Fast Food,Standard,2021-05-07,11,2.9,1
+V00853,Restaurant_853,Taiwan,Sarajevo,Turkish,Standard,2023-11-15,19,2.6,1
+V00854,Restaurant_854,Turkey,Dhaka,Dessert,Standard,2022-09-02,34,4.0,1
+V00855,Restaurant_855,Saudi Arabia,Riyadh,Asian,Standard,2023-08-15,29,3.0,1
+V00856,Restaurant_856,Saudi Arabia,Taipei,Fast Food,Budget,2023-12-28,28,4.0,1
+V00857,Restaurant_857,Turkey,Dhaka,Fast Food,Standard,2022-10-02,32,2.8,1
+V00858,Restaurant_858,Turkey,Berlin,Indian,Standard,2022-07-06,33,3.3,1
+V00859,Restaurant_859,Saudi Arabia,Taipei,Turkish,Standard,2020-02-05,20,4.5,1
+V00860,Restaurant_860,Turkey,Dhaka,Italian,Standard,2020-07-09,43,3.6,0
+V00861,Restaurant_861,Saudi Arabia,Taipei,Turkish,Budget,2021-08-25,37,4.1,1
+V00862,Restaurant_862,Saudi Arabia,Riyadh,Asian,Budget,2021-03-29,14,4.1,1
+V00863,Restaurant_863,Taiwan,Berlin,Fast Food,Standard,2022-04-08,14,4.6,1
+V00864,Restaurant_864,Germany,Riyadh,Turkish,Budget,2023-11-17,30,3.3,1
+V00865,Restaurant_865,Saudi Arabia,Sarajevo,Italian,Budget,2021-05-13,21,4.2,1
+V00866,Restaurant_866,UAE,Berlin,Indian,Standard,2021-09-19,13,4.9,1
+V00867,Restaurant_867,Bangladesh,Istanbul,Turkish,Budget,2023-09-21,29,4.3,0
+V00868,Restaurant_868,Bosnia,Dhaka,Healthy,Standard,2023-04-06,34,3.7,1
+V00869,Restaurant_869,Germany,Berlin,Indian,Premium,2022-01-25,23,4.1,1
+V00870,Restaurant_870,Germany,Sarajevo,Italian,Budget,2022-08-27,20,4.3,1
+V00871,Restaurant_871,Germany,Sarajevo,Asian,Standard,2023-02-07,41,4.0,1
+V00872,Restaurant_872,Taiwan,Riyadh,Fast Food,Budget,2022-12-23,20,2.5,1
+V00873,Restaurant_873,Saudi Arabia,Taipei,Turkish,Budget,2021-12-05,27,3.0,1
+V00874,Restaurant_874,Taiwan,Berlin,Italian,Premium,2022-05-21,36,4.5,0
+V00875,Restaurant_875,Saudi Arabia,Dhaka,Indian,Budget,2023-02-01,27,3.2,1
+V00876,Restaurant_876,Taiwan,Berlin,Healthy,Standard,2021-11-08,32,4.3,1
+V00877,Restaurant_877,Taiwan,Dubai,Italian,Standard,2021-12-21,20,3.4,1
+V00878,Restaurant_878,Bangladesh,Taipei,Mexican,Standard,2023-12-10,30,3.8,1
+V00879,Restaurant_879,UAE,Dhaka,Dessert,Budget,2022-07-18,14,2.7,1
+V00880,Restaurant_880,Taiwan,Dhaka,Healthy,Premium,2021-07-08,32,3.0,1
+V00881,Restaurant_881,Bangladesh,Istanbul,Indian,Standard,2021-09-19,34,4.9,1
+V00882,Restaurant_882,Turkey,Riyadh,Asian,Standard,2021-05-29,19,4.7,1
+V00883,Restaurant_883,UAE,Istanbul,Fast Food,Budget,2021-04-17,31,4.1,0
+V00884,Restaurant_884,Taiwan,Dhaka,Indian,Standard,2020-09-04,28,3.6,0
+V00885,Restaurant_885,Bosnia,Taipei,Dessert,Premium,2021-01-29,10,4.2,1
+V00886,Restaurant_886,Germany,Berlin,Asian,Standard,2021-10-08,16,4.0,1
+V00887,Restaurant_887,Turkey,Berlin,Turkish,Standard,2020-09-01,13,3.9,1
+V00888,Restaurant_888,Turkey,Taipei,Italian,Budget,2023-01-02,10,2.6,1
+V00889,Restaurant_889,Bangladesh,Dhaka,Mexican,Standard,2023-11-14,24,4.1,1
+V00890,Restaurant_890,Turkey,Sarajevo,Healthy,Standard,2021-01-14,21,4.4,1
+V00891,Restaurant_891,UAE,Berlin,Healthy,Budget,2021-01-27,31,5.0,1
+V00892,Restaurant_892,Taiwan,Sarajevo,Italian,Premium,2021-03-19,31,2.5,1
+V00893,Restaurant_893,Taiwan,Berlin,Mexican,Budget,2022-09-18,26,4.3,1
+V00894,Restaurant_894,Bosnia,Berlin,Italian,Standard,2021-07-20,38,3.9,1
+V00895,Restaurant_895,Germany,Riyadh,Turkish,Budget,2023-04-22,23,3.6,1
+V00896,Restaurant_896,Bangladesh,Riyadh,Dessert,Standard,2022-12-10,29,2.8,1
+V00897,Restaurant_897,Germany,Dubai,Asian,Premium,2023-05-07,42,3.5,1
+V00898,Restaurant_898,Turkey,Istanbul,Indian,Budget,2021-08-02,24,3.4,1
+V00899,Restaurant_899,Bosnia,Taipei,Healthy,Budget,2020-07-24,21,3.3,0
+V00900,Restaurant_900,Germany,Taipei,Turkish,Budget,2021-02-01,29,4.3,1
+V00901,Restaurant_901,UAE,Taipei,Asian,Premium,2021-08-29,39,4.3,1
+V00902,Restaurant_902,Taiwan,Dubai,Turkish,Budget,2021-04-10,12,4.0,1
+V00903,Restaurant_903,Turkey,Riyadh,Mexican,Budget,2022-01-09,37,4.8,0
+V00904,Restaurant_904,Bosnia,Dhaka,Healthy,Standard,2021-01-02,35,3.4,1
+V00905,Restaurant_905,Germany,Sarajevo,Indian,Budget,2021-09-11,39,3.1,1
+V00906,Restaurant_906,Bangladesh,Sarajevo,Italian,Budget,2020-01-29,22,4.1,0
+V00907,Restaurant_907,UAE,Dhaka,Italian,Standard,2023-12-21,22,3.0,1
+V00908,Restaurant_908,UAE,Dubai,Asian,Premium,2022-12-29,11,3.3,0
+V00909,Restaurant_909,Germany,Dhaka,Indian,Standard,2020-09-16,11,3.1,0
+V00910,Restaurant_910,Taiwan,Taipei,Dessert,Premium,2021-07-15,35,2.7,0
+V00911,Restaurant_911,Germany,Istanbul,Fast Food,Standard,2020-04-03,20,4.6,1
+V00912,Restaurant_912,Turkey,Berlin,Mexican,Standard,2020-04-21,17,3.1,1
+V00913,Restaurant_913,Germany,Sarajevo,Asian,Premium,2023-02-07,31,3.7,1
+V00914,Restaurant_914,UAE,Riyadh,Fast Food,Standard,2021-08-21,29,2.6,1
+V00915,Restaurant_915,Bosnia,Riyadh,Turkish,Premium,2023-11-29,17,4.2,1
+V00916,Restaurant_916,Germany,Dubai,Mexican,Budget,2020-09-15,38,3.3,1
+V00917,Restaurant_917,Taiwan,Riyadh,Turkish,Budget,2023-07-30,35,4.4,1
+V00918,Restaurant_918,Bosnia,Taipei,Dessert,Premium,2022-10-02,39,3.5,1
+V00919,Restaurant_919,Bangladesh,Sarajevo,Indian,Budget,2020-07-29,26,3.0,1
+V00920,Restaurant_920,Saudi Arabia,Dhaka,Healthy,Standard,2020-01-26,29,3.8,1
+V00921,Restaurant_921,Germany,Taipei,Mexican,Standard,2023-03-21,25,2.8,1
+V00922,Restaurant_922,Taiwan,Dubai,Fast Food,Premium,2021-08-05,16,3.6,1
+V00923,Restaurant_923,Bosnia,Taipei,Dessert,Standard,2022-08-19,25,3.3,1
+V00924,Restaurant_924,Taiwan,Dhaka,Healthy,Budget,2022-09-07,36,4.8,1
+V00925,Restaurant_925,Bangladesh,Istanbul,Italian,Budget,2022-06-21,32,2.7,1
+V00926,Restaurant_926,UAE,Dubai,Fast Food,Premium,2021-11-28,33,4.2,1
+V00927,Restaurant_927,Taiwan,Istanbul,Asian,Premium,2021-01-12,18,3.0,1
+V00928,Restaurant_928,Bosnia,Berlin,Italian,Standard,2020-04-15,44,3.3,1
+V00929,Restaurant_929,Taiwan,Istanbul,Dessert,Standard,2021-06-01,29,3.5,1
+V00930,Restaurant_930,Taiwan,Berlin,Italian,Standard,2022-09-05,26,4.8,0
+V00931,Restaurant_931,Taiwan,Berlin,Asian,Standard,2020-08-21,40,3.1,1
+V00932,Restaurant_932,Turkey,Istanbul,Mexican,Budget,2020-05-13,17,2.7,1
+V00933,Restaurant_933,Turkey,Dubai,Italian,Budget,2022-03-31,24,3.3,1
+V00934,Restaurant_934,UAE,Dhaka,Indian,Standard,2022-10-04,40,2.8,1
+V00935,Restaurant_935,Germany,Taipei,Fast Food,Budget,2020-05-31,39,2.8,1
+V00936,Restaurant_936,Taiwan,Taipei,Healthy,Standard,2023-03-27,29,3.9,1
+V00937,Restaurant_937,Bangladesh,Dhaka,Italian,Standard,2023-07-13,21,2.7,1
+V00938,Restaurant_938,Germany,Sarajevo,Fast Food,Standard,2023-11-06,26,2.6,1
+V00939,Restaurant_939,Bangladesh,Sarajevo,Turkish,Standard,2020-04-19,39,4.3,1
+V00940,Restaurant_940,Germany,Berlin,Fast Food,Budget,2020-11-06,38,3.4,1
+V00941,Restaurant_941,UAE,Berlin,Healthy,Standard,2020-11-01,28,2.8,1
+V00942,Restaurant_942,Taiwan,Dubai,Fast Food,Standard,2023-02-26,20,3.1,0
+V00943,Restaurant_943,Taiwan,Riyadh,Asian,Standard,2021-09-14,43,4.1,1
+V00944,Restaurant_944,Saudi Arabia,Istanbul,Dessert,Premium,2020-06-23,16,3.2,1
+V00945,Restaurant_945,Bangladesh,Berlin,Healthy,Budget,2021-05-23,43,3.7,1
+V00946,Restaurant_946,Germany,Taipei,Dessert,Standard,2020-08-30,29,2.8,1
+V00947,Restaurant_947,Germany,Dubai,Mexican,Standard,2023-02-16,33,4.0,1
+V00948,Restaurant_948,Turkey,Istanbul,Dessert,Standard,2022-05-02,19,3.3,1
+V00949,Restaurant_949,Saudi Arabia,Dubai,Turkish,Standard,2023-05-26,41,4.1,1
+V00950,Restaurant_950,Bosnia,Istanbul,Asian,Premium,2023-05-05,24,4.5,1
+V00951,Restaurant_951,Bosnia,Istanbul,Mexican,Standard,2023-06-20,29,4.0,1
+V00952,Restaurant_952,Turkey,Dhaka,Fast Food,Standard,2021-04-07,12,3.2,1
+V00953,Restaurant_953,Turkey,Berlin,Healthy,Budget,2022-12-06,17,3.1,0
+V00954,Restaurant_954,Turkey,Dubai,Turkish,Budget,2022-02-18,32,3.3,1
+V00955,Restaurant_955,Bangladesh,Dubai,Asian,Budget,2022-07-11,20,2.9,1
+V00956,Restaurant_956,Bangladesh,Dhaka,Mexican,Standard,2022-06-25,17,3.0,1
+V00957,Restaurant_957,UAE,Taipei,Mexican,Standard,2021-08-31,38,4.5,1
+V00958,Restaurant_958,UAE,Taipei,Turkish,Premium,2023-04-20,39,3.5,0
+V00959,Restaurant_959,Turkey,Sarajevo,Indian,Budget,2022-05-28,19,3.6,1
+V00960,Restaurant_960,Saudi Arabia,Berlin,Fast Food,Standard,2021-09-17,37,4.0,1
+V00961,Restaurant_961,Germany,Berlin,Turkish,Standard,2023-03-10,22,4.0,1
+V00962,Restaurant_962,Bangladesh,Riyadh,Mexican,Standard,2023-06-25,41,2.7,1
+V00963,Restaurant_963,Saudi Arabia,Dhaka,Italian,Premium,2020-05-03,35,4.6,1
+V00964,Restaurant_964,Taiwan,Taipei,Asian,Standard,2023-06-02,31,2.9,1
+V00965,Restaurant_965,Bangladesh,Istanbul,Turkish,Premium,2020-07-22,13,4.3,1
+V00966,Restaurant_966,Bangladesh,Dubai,Indian,Budget,2021-03-01,40,4.4,0
+V00967,Restaurant_967,UAE,Berlin,Mexican,Standard,2023-07-05,27,4.3,1
+V00968,Restaurant_968,Germany,Dubai,Fast Food,Premium,2021-03-08,33,3.9,1
+V00969,Restaurant_969,Germany,Dubai,Dessert,Standard,2021-06-25,32,2.5,1
+V00970,Restaurant_970,Bosnia,Riyadh,Mexican,Premium,2023-09-14,31,3.4,1
+V00971,Restaurant_971,Bosnia,Taipei,Fast Food,Standard,2020-06-15,11,4.0,1
+V00972,Restaurant_972,Bosnia,Berlin,Turkish,Budget,2020-11-17,40,3.5,1
+V00973,Restaurant_973,Bosnia,Dubai,Fast Food,Premium,2021-05-06,20,4.7,1
+V00974,Restaurant_974,Taiwan,Berlin,Healthy,Budget,2020-12-21,37,3.3,1
+V00975,Restaurant_975,Taiwan,Istanbul,Healthy,Premium,2023-02-04,41,3.2,0
+V00976,Restaurant_976,Bangladesh,Riyadh,Healthy,Standard,2020-06-02,14,3.2,1
+V00977,Restaurant_977,Turkey,Istanbul,Indian,Budget,2020-11-16,19,3.3,1
+V00978,Restaurant_978,UAE,Berlin,Indian,Standard,2020-01-06,33,3.9,1
+V00979,Restaurant_979,UAE,Sarajevo,Italian,Premium,2022-04-16,44,4.3,0
+V00980,Restaurant_980,Bosnia,Berlin,Indian,Standard,2022-07-11,32,4.2,1
+V00981,Restaurant_981,Bangladesh,Taipei,Dessert,Standard,2023-11-12,26,4.5,1
+V00982,Restaurant_982,Saudi Arabia,Dubai,Turkish,Budget,2023-05-01,10,4.7,1
+V00983,Restaurant_983,Turkey,Dubai,Mexican,Standard,2022-08-20,40,4.5,0
+V00984,Restaurant_984,Bangladesh,Istanbul,Mexican,Budget,2021-08-19,40,2.5,0
+V00985,Restaurant_985,Turkey,Riyadh,Italian,Budget,2020-03-07,43,4.3,1
+V00986,Restaurant_986,Turkey,Sarajevo,Indian,Standard,2021-04-19,18,3.0,1
+V00987,Restaurant_987,Turkey,Dhaka,Dessert,Budget,2021-08-13,31,2.8,1
+V00988,Restaurant_988,Bangladesh,Dubai,Fast Food,Standard,2023-12-18,22,4.1,1
+V00989,Restaurant_989,Bosnia,Taipei,Italian,Budget,2021-08-02,34,3.3,1
+V00990,Restaurant_990,UAE,Istanbul,Dessert,Premium,2023-12-10,27,2.6,1
+V00991,Restaurant_991,UAE,Istanbul,Fast Food,Standard,2022-07-18,21,2.8,0
+V00992,Restaurant_992,Bosnia,Dhaka,Dessert,Standard,2020-05-25,26,2.5,1
+V00993,Restaurant_993,Turkey,Taipei,Fast Food,Standard,2023-11-08,24,4.8,1
+V00994,Restaurant_994,Saudi Arabia,Riyadh,Asian,Standard,2021-04-23,24,2.6,1
+V00995,Restaurant_995,Germany,Taipei,Dessert,Budget,2021-06-25,24,3.0,1
+V00996,Restaurant_996,Bangladesh,Riyadh,Mexican,Premium,2023-07-04,22,3.5,1
+V00997,Restaurant_997,Germany,Taipei,Healthy,Premium,2023-04-22,26,3.4,1
+V00998,Restaurant_998,Bosnia,Taipei,Indian,Budget,2023-09-16,41,4.8,1
+V00999,Restaurant_999,Saudi Arabia,Berlin,Fast Food,Standard,2021-02-09,18,2.6,0
+V01000,Restaurant_1000,Bangladesh,Istanbul,Asian,Budget,2022-05-20,29,3.8,1

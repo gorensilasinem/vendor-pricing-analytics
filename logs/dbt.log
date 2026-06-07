@@ -1,0 +1,31 @@
+[0m17:35:01.699488 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x104419010>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10557b890>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10557b9d0>]}
+
+
+============================== 17:35:01.701629 | c32a2cf1-5dd6-466f-8584-92ec387eaf74 ==============================
+[0m17:35:01.701629 [info ] [MainThread]: Running with dbt=1.11.11
+[0m17:35:01.701863 [debug] [MainThread]: running dbt with arguments {'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'log_cache_events': 'False', 'use_colors': 'True', 'log_format': 'default', 'debug': 'False', 'quiet': 'False', 'indirect_selection': 'eager', 'partial_parse': 'True', 'printer_width': '80', 'version_check': 'True', 'use_experimental_parser': 'False', 'fail_fast': 'False', 'profiles_dir': '/Users/silasinemgoren/.dbt', 'write_json': 'True', 'log_path': 'logs', 'warn_error': 'None', 'target_path': 'None', 'static_parser': 'True', 'empty': 'None', 'no_print': 'None', 'cache_selected_only': 'False', 'invocation_command': 'dbt init vendor_pricing_dbt', 'introspect': 'True', 'send_anonymous_usage_stats': 'True'}
+[0m17:35:01.709110 [info ] [MainThread]: Creating dbt configuration folder at /Users/silasinemgoren/.dbt
+[0m17:35:01.709821 [debug] [MainThread]: Starter project path: /Users/silasinemgoren/vendor-pricing-analytics/venv/lib/python3.13/site-packages/dbt/include/starter_project
+[0m17:35:01.712457 [info ] [MainThread]: 
+Your new dbt project "vendor_pricing_dbt" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m17:35:01.712592 [info ] [MainThread]: Setting up your profile.
+[0m17:35:36.096374 [info ] [MainThread]: Profile vendor_pricing_dbt written to /Users/silasinemgoren/.dbt/profiles.yml using target's sample configuration. Once updated, you'll be able to start developing with dbt.
+[0m17:35:36.115221 [debug] [MainThread]: Resource report: {"command_name": "init", "command_success": true, "command_wall_clock_time": 34.444748, "process_in_blocks": "0", "process_kernel_time": 0.143513, "process_mem_max_rss": "115376128", "process_out_blocks": "0", "process_user_time": 0.604442}
+[0m17:35:36.115452 [debug] [MainThread]: Command `dbt init` succeeded at 17:35:36.115404 after 34.45 seconds
+[0m17:35:36.115596 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x105632fd0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10483c950>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1057247c0>]}
+[0m17:35:36.115742 [debug] [MainThread]: Flushing usage events
+[0m17:35:36.670823 [debug] [MainThread]: An error was encountered while trying to flush usage events
