@@ -32,6 +32,14 @@ Raw Data (Python) --> DuckDB --> dbt (Staging + Marts) --> Looker Studio Dashboa
 - Affordability scoring per vendor
 - Performance tier classification (Top / Mid / Low Performer)
 
+## Key Findings & Business Insights
+
+- **Revenue is evenly distributed across countries** — no single market dominates, suggesting balanced vendor acquisition across Germany, Turkey, UAE, Saudi Arabia, Taiwan, Bangladesh, and Bosnia
+- **Fast Food leads cuisine distribution (14.1%)** — highest order share, followed by Turkish (13.1%) and Healthy (12.6%), indicating strong demand for quick and local options
+- **95%+ of vendors fall into Mid Affordability segment** — average order values are moderate, creating an opportunity to introduce premium pricing tiers for high-rated vendors
+- **Performance tier is skewed toward Low Performer** — majority of vendors have fewer than 100 orders, highlighting the need for vendor activation and engagement programs
+- **Recommendation:** Focus vendor support programs on Low Performer segment to increase order frequency — even a 10% uplift across 800+ vendors would significantly impact platform GMV
+
 ## Dashboard
 <img width="825" height="617" alt="Ekran Resmi 2026-06-07 19 33 06" src="https://github.com/user-attachments/assets/4f7aa88f-fa94-4984-b785-5ddcb38ec9e0" />
 
