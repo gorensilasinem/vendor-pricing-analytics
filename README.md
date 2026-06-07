@@ -33,6 +33,8 @@ Raw Data (Python) --> DuckDB --> dbt (Staging + Marts) --> Looker Studio Dashboa
 - Performance tier classification (Top / Mid / Low Performer)
 
 ## Dashboard
+<img width="825" height="617" alt="Ekran Resmi 2026-06-07 19 33 06" src="https://github.com/user-attachments/assets/4f7aa88f-fa94-4984-b785-5ddcb38ec9e0" />
+
 Built in Looker Studio with 4 views:
 - Revenue by Country
 - Order Distribution by Cuisine Type
